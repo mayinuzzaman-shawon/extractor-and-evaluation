@@ -1,0 +1,128 @@
+[
+  {
+    "report_name": "Report #1001 | 123 Sample Street, Anywhere, Ontario",
+    "issue_name": "Downspouts \u2013 Discharging at Foundation",
+    "issue_type": "Repair or Replace",
+    "issue_description": "Downspouts at the North-East corner and at the back of the building were noted to be discharging at the foundation.",
+    "issue_summary": "Repair by extending all downspouts to discharge above grade onto the ground at least six feet from the foundation of the building.",
+    "additional_information": null,
+    "issue_images": [
+      "Downspouts \u2013 Discharging at Foundation"
+    ]
+  },
+  {
+    "report_name": "Report #1001 | 123 Sample Street, Anywhere, Ontario",
+    "issue_name": "Exterior Foundation Wall \u2013 Deteriorated Parging",
+    "issue_type": "Repair or Replace",
+    "issue_description": "Localized parging deterioration was noted in areas throughout the exterior of the building including but not limited to: Front of building at garage door; South-west corner of building.",
+    "issue_summary": "Repair by qualified masonry contractor recommended to prevent chance of water damage to contents, finishes and/or structure.",
+    "additional_information": null,
+    "issue_images": [
+      "Deteriorated Parging at Garage",
+      "Deteriorated Parging at South-West Corner"
+    ]
+  },
+  {
+    "report_name": "Report #1001 | 123 Sample Street, Anywhere, Ontario",
+    "issue_name": "Wall Surfaces \u2013 Damaged Siding",
+    "issue_type": "Repair or Replace",
+    "issue_description": "Siding at the back of the building was noted to have mechanical damage.",
+    "issue_summary": "Repair by qualified vinyl siding contractor recommended to remediate cosmetic defects and prevent chance of water damage to contents, finishes and/or structure.",
+    "additional_information": null,
+    "issue_images": [
+      "Damaged Siding at Back of Building"
+    ]
+  },
+  {
+    "report_name": "Report #1001 | 123 Sample Street, Anywhere, Ontario",
+    "issue_name": "Flashings & Trim \u2013 Deteriorated Paint, Stain and/or Caulking",
+    "issue_type": "Repair or Replace",
+    "issue_description": "Trim around exterior components including but not limited to: the side door; two basement windows at the back of the building was noted to have deteriorated paint and caulking.",
+    "issue_summary": "Refinish any wood trim with a new coat of paint or stain and replace any deteriorated or cracked caulking to prevent chance of water damage to contents, finishes and/or structure and possible material deterioration.",
+    "additional_information": null,
+    "issue_images": [
+      "Deteriorated Paint/Stain at Back Door",
+      "Deteriorated Caulking at Back Door",
+      "Deteriorated Paint/Stain at Back Windows"
+    ]
+  },
+  {
+    "report_name": "Report #1001 | 123 Sample Street, Anywhere, Ontario",
+    "issue_name": "Entry Doors \u2013 Not Latching Properly",
+    "issue_type": "Safety Concern",
+    "issue_description": "The storm door at the front of the building was noted to have issues latching properly.",
+    "issue_summary": "Repair by a qualified contractor recommended to improve security and reduce chance of damage to finishes and/or structure.",
+    "additional_information": null,
+    "issue_images": [
+      "Front Door not Latching Properly"
+    ]
+  },
+  {
+    "report_name": "Report #1001 | 123 Sample Street, Anywhere, Ontario",
+    "issue_name": "Cover Plates \u2013 Missing",
+    "issue_type": "Safety Concern",
+    "issue_description": "Outlets and light switches were noted to be missing cover plates in: Garage; 2nd level storage room; Master bedroom walk-in closet.",
+    "issue_summary": "Install cover plates on all outlets and light switches to improve safety of all occupants and prevent chance of electric shock.",
+    "additional_information": null,
+    "issue_images": [
+      "Cover Plate Missing in Garage",
+      "Cover Plate Missing in 2nd Floor Storage",
+      "Cover Plate Missing in Master Bedroom"
+    ]
+  },
+  {
+    "report_name": "Report #1001 | 123 Sample Street, Anywhere, Ontario",
+    "issue_name": "Outlets \u2013 Loose",
+    "issue_type": "Safety Concern",
+    "issue_description": "An outlet in the kitchen was noted to be loose and/or improperly secured.",
+    "issue_summary": "Repair by a qualified electrical contractor is recommended to improve safety of all occupants and prevent chance of electric shock.",
+    "additional_information": null,
+    "issue_images": [
+      "Loose Outlet in Kitchen"
+    ]
+  },
+  {
+    "report_name": "Report #1001 | 123 Sample Street, Anywhere, Ontario",
+    "issue_name": "Carbon Monoxide (CO) Detectors \u2013 Missing",
+    "issue_type": "Safety Concern",
+    "issue_description": "No carbon monoxide (CO) detectors were noted near sleeping areas.",
+    "issue_summary": "Recommend installation of carbon monoxide (CO) detectors near sleeping areas and in each room where there is a fuel burning appliance. This will improve safety of all occupants and prevent possible exposure to carbon monoxide (CO).",
+    "additional_information": null,
+    "issue_images": [
+      "Carbon Monoxide (CO) Detectors \u2013 Missing"
+    ]
+  },
+  {
+    "report_name": "Report #1001 | 123 Sample Street, Anywhere, Ontario",
+    "issue_name": "GFCI Locations \u2013 Missing",
+    "issue_type": "Safety Concern",
+    "issue_description": "GFCI protection was noted to be missing in the kitchen.",
+    "issue_summary": "Recommend qualified electrical contractor install GFCI protection in above noted areas and any other potentially wet locations such as bath/washrooms, over kitchen/wet bar countertops, exterior locations less than 8' from grade level etc. This will improve the safety of all occupants and prevent chances of electric shock.",
+    "additional_information": null,
+    "issue_images": [
+      "Missing GFCI Protection in Kitchen"
+    ]
+  },
+  {
+    "report_name": "Report #1001 | 123 Sample Street, Anywhere, Ontario",
+    "issue_name": "Handrails / Guards \u2013 Missing Handrail",
+    "issue_type": "Safety Concern",
+    "issue_description": "The stairway leading to the basement was noted to be missing handrail.",
+    "issue_summary": "Recommend installation of proper handrail by qualified contractor to improve safety of all occupants in prevent potential fall hazard.",
+    "additional_information": null,
+    "issue_images": [
+      "Missing Handrail at Basement Stairs"
+    ]
+  },
+  {
+    "report_name": "Report #1001 | 123 Sample Street, Anywhere, Ontario",
+    "issue_name": "Entry Door(s) into Dwelling \u2013 Missing Self-Closing Device",
+    "issue_type": "Safety Concern",
+    "issue_description": "The entry door from the garage into the building was noted to be missing its self-closing device.",
+    "issue_summary": "Recommend installation of self-closing device by qualified contractor to improve safety of all occupants and prevent possibility of hazardous combustion products entering home.",
+    "additional_information": null,
+    "issue_images": [
+      "Missing Self-Closing Device at Entry Door"
+    ]
+  }
+]

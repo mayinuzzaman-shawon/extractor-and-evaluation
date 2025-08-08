@@ -1,0 +1,398 @@
+[
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Leader/Extension",
+    "issue_type": "Marginal",
+    "issue_description": "Extend runoff drains to move water away from foundation.",
+    "issue_summary": "Roof",
+    "additional_information": null,
+    "issue_images": "Leader/Extension"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Garage Doors",
+    "issue_type": "Marginal",
+    "issue_description": "Does not close properly.",
+    "issue_summary": "Front Garage",
+    "additional_information": null,
+    "issue_images": "Garage Doors"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Door Operation",
+    "issue_type": "Marginal",
+    "issue_description": "Inoperative.",
+    "issue_summary": "Front Garage",
+    "additional_information": null,
+    "issue_images": "Door Operation"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Door Opener",
+    "issue_type": "Marginal",
+    "issue_description": "Inoperative at the time of inspection.",
+    "issue_summary": "Front Garage",
+    "additional_information": null,
+    "issue_images": "Door Opener"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Ceiling",
+    "issue_type": "Marginal",
+    "issue_description": "Not finished according to building codes.",
+    "issue_summary": "Front Garage",
+    "additional_information": null,
+    "issue_images": "Ceiling"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Walls",
+    "issue_type": "Marginal",
+    "issue_description": "Not finished according to building codes.",
+    "issue_summary": "Front Garage",
+    "additional_information": null,
+    "issue_images": "Walls"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Electrical",
+    "issue_type": "Marginal",
+    "issue_description": "Install missing outlet/switch cover plate(s).",
+    "issue_summary": "Front Garage",
+    "additional_information": null,
+    "issue_images": "Electrical"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Plumbing lines",
+    "issue_type": "Marginal",
+    "issue_description": "Plumbing lines noted in the garage. Further evaluation and certification is required.",
+    "issue_summary": "Front Garage",
+    "additional_information": null,
+    "issue_images": "Plumbing lines"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Porch",
+    "issue_type": "Marginal",
+    "issue_description": "Porch ceiling not properly finished.",
+    "issue_summary": "Lots and Grounds",
+    "additional_information": null,
+    "issue_images": "Porch"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Patio",
+    "issue_type": "Marginal",
+    "issue_description": "Paver tiles missing.",
+    "issue_summary": "Lots and Grounds",
+    "additional_information": null,
+    "issue_images": "Patio"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Deck",
+    "issue_type": "Marginal",
+    "issue_description": "Construction junk noted under the deck.",
+    "issue_summary": "Lots and Grounds",
+    "additional_information": null,
+    "issue_images": "Deck"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Vegetation",
+    "issue_type": "Marginal",
+    "issue_description": "Tree limbs over hang the roof and should be cut back, An evaluation by a qualified arborist is recommended to estimate services required to repair this problem.",
+    "issue_summary": "Lots and Grounds",
+    "additional_information": null,
+    "issue_images": "Vegetation"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Unusual boxed construction",
+    "issue_type": "Marginal",
+    "issue_description": "Unusual boxed construction noted.",
+    "issue_summary": "Lots and Grounds",
+    "additional_information": null,
+    "issue_images": "Unusual boxed construction"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Exterior Surface Type",
+    "issue_type": "Marginal",
+    "issue_description": "Wood Paneling, Cement boards - Not finished properly. A qualified contractor is required to correct the issue. Also holes made to pass wires, pipes, vents etc. should be properly sealed.",
+    "issue_summary": "Exterior",
+    "additional_information": null,
+    "issue_images": "Exterior Surface Type"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Entry Doors",
+    "issue_type": "Marginal",
+    "issue_description": "Skylight glass cracked.",
+    "issue_summary": "Exterior",
+    "additional_information": null,
+    "issue_images": "Entry Doors"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Patio Door",
+    "issue_type": "Marginal",
+    "issue_description": "Not properly sealed. Also missing screen.",
+    "issue_summary": "Exterior",
+    "additional_information": null,
+    "issue_images": "Patio Door"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Window Screens",
+    "issue_type": "Marginal",
+    "issue_description": "Missing from all windows and patio doors.",
+    "issue_summary": "Exterior",
+    "additional_information": null,
+    "issue_images": "Window Screens"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Basement Windows",
+    "issue_type": "Marginal",
+    "issue_description": "Not properly finished.",
+    "issue_summary": "Exterior",
+    "additional_information": null,
+    "issue_images": "Basement Windows"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Vent Covers",
+    "issue_type": "Marginal",
+    "issue_description": "Make sure all exterior vents are not clogged or blocked and have proper covers and have caulking around them. Dryer vent needs regular cleaning to avoid lint buildup.",
+    "issue_summary": "Exterior",
+    "additional_information": null,
+    "issue_images": "Vent Covers"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "A/C System Operation",
+    "issue_type": "Marginal",
+    "issue_description": "Unit was not tested, appears to be under capacity for the size of the house.",
+    "issue_summary": "Main AC System",
+    "additional_information": null,
+    "issue_images": "A/C System Operation"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Bathroom Doors",
+    "issue_type": "Marginal",
+    "issue_description": "One of the jack n Jill bathroom door does not latch.",
+    "issue_summary": "Applies to all bathrooms",
+    "additional_information": null,
+    "issue_images": "Bathroom Doors"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Bathroom Counter/Cabinet",
+    "issue_type": "Marginal",
+    "issue_description": "Front left ensuite bathroom vanity drawers are not installed properly.",
+    "issue_summary": "Applies to all bathrooms",
+    "additional_information": null,
+    "issue_images": "Bathroom Counter/Cabinet"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Bathroom Faucets/Traps",
+    "issue_type": "Marginal",
+    "issue_description": "1. Powder room sink drain leaking. 2. Master bathroom tub shower cradle leaking.",
+    "issue_summary": "Applies to all bathrooms",
+    "additional_information": null,
+    "issue_images": "Bathroom Faucets/Traps"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Bathroom Toilets",
+    "issue_type": "Marginal",
+    "issue_description": "Powder room toilet does not seem to flush properly, further investigation required.",
+    "issue_summary": "Applies to all bathrooms",
+    "additional_information": null,
+    "issue_images": "Bathroom Toilets"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Bathroom Ventilation",
+    "issue_type": "Marginal",
+    "issue_description": "Cover coming off at master bathroom.",
+    "issue_summary": "Applies to all bathrooms",
+    "additional_information": null,
+    "issue_images": "Bathroom Ventilation"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Overall Workmanship",
+    "issue_type": "Marginal",
+    "issue_description": "Poor quality finish noted with missing or crumbling grout, chipped tiles, improperly finished walls and ceilings etc.",
+    "issue_summary": "Applies to all bathrooms",
+    "additional_information": null,
+    "issue_images": "Overall Workmanship"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Plumbing/Fixtures",
+    "issue_type": "Marginal",
+    "issue_description": "Sink faucet loose at the base allowing water to seep underneath it, needs proper tightening.",
+    "issue_summary": "1st Floor Kitchen",
+    "additional_information": null,
+    "issue_images": "Plumbing/Fixtures"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Cabinets",
+    "issue_type": "Marginal",
+    "issue_description": "Missing handles.",
+    "issue_summary": "1st Floor Kitchen",
+    "additional_information": null,
+    "issue_images": "Cabinets"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Overall Workmanship",
+    "issue_type": "Marginal",
+    "issue_description": "Poor quality workmanship noted with improperly finished walls, ceilings, scratched floors etc.",
+    "issue_summary": "1st Floor Kitchen",
+    "additional_information": null,
+    "issue_images": "Overall Workmanship"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Main Stairs",
+    "issue_type": "Marginal",
+    "issue_description": "Loose handrails which could lead to unsafe handrails. Also glass rattles when climbing the stairs.",
+    "issue_summary": "Applies to all living areas",
+    "additional_information": "A qualified contractor is required to correct the issue.",
+    "issue_images": "Main Stairs"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Bedroom Doors",
+    "issue_type": "Marginal",
+    "issue_description": "Front left bedroom door frame missing door stopper molding.",
+    "issue_summary": "Applies to all bedrooms",
+    "additional_information": null,
+    "issue_images": "Bedroom Doors"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Overall Workmanship",
+    "issue_type": "Marginal",
+    "issue_description": "Poor quality workmanship noted with improperly finished walls, ceilings etc.",
+    "issue_summary": "Applies to all bedrooms",
+    "additional_information": null,
+    "issue_images": "Overall Workmanship"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Insulation",
+    "issue_type": "Marginal",
+    "issue_description": "Poor quality, insufficient insulation work done, A qualified contractor is recommended to evaluate and estimate repairs.",
+    "issue_summary": "All Attic",
+    "additional_information": null,
+    "issue_images": "Insulation"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Insulation Depth",
+    "issue_type": "Marginal",
+    "issue_description": null,
+    "issue_summary": "All Attic",
+    "additional_information": null,
+    "issue_images": "Insulation Depth"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Access Hatch",
+    "issue_type": "Marginal",
+    "issue_description": "Improperly sized access hatch.",
+    "issue_summary": "All Attic",
+    "additional_information": null,
+    "issue_images": "Access Hatch"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Fireplace Operation",
+    "issue_type": "Marginal",
+    "issue_description": "Pieces of debris and twigs noted inside the fireplace. Unable to turn the fireplace on.",
+    "issue_summary": "Great Room Fireplace",
+    "additional_information": null,
+    "issue_images": "Fireplace Operation"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Dryer Vent",
+    "issue_type": "Marginal",
+    "issue_description": "Dryer vent rough-in missing.",
+    "issue_summary": "2nd Floor Laundry Room/Area",
+    "additional_information": null,
+    "issue_images": "Dryer Vent"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Sump Pump",
+    "issue_type": "Marginal",
+    "issue_description": "Improper functionality. Requires further evaluation.",
+    "issue_summary": "Sub Basement",
+    "additional_information": null,
+    "issue_images": "Sump Pump"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Basement Stairs/Railings",
+    "issue_type": "Marginal",
+    "issue_description": "Missing railing.",
+    "issue_summary": "Sub Basement",
+    "additional_information": null,
+    "issue_images": "Basement Stairs/Railings"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Furnace Enclosure",
+    "issue_type": "Marginal",
+    "issue_description": "Missing combustion air vents.",
+    "issue_summary": "Sub Basement",
+    "additional_information": null,
+    "issue_images": "Furnace Enclosure"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Gas Lines",
+    "issue_type": "Marginal",
+    "issue_description": "Not properly terminated gas lines noted. A licensed gas technician is required to evaluate and certify all gas lines.",
+    "issue_summary": "Sub Basement",
+    "additional_information": null,
+    "issue_images": "Gas Lines"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Water Heater Operation",
+    "issue_type": "Marginal",
+    "issue_description": "Tankless - Incomplete installation. Inoperative at the time of inspection.",
+    "issue_summary": "Basement Water Heater",
+    "additional_information": null,
+    "issue_images": "Water Heater Operation"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "Electric Panel Manufacturer",
+    "issue_type": "Marginal",
+    "issue_description": "Schnieder - Insufficient space around electrical panel, hence unable to open and inspect.",
+    "issue_summary": "Basement Electric Panel",
+    "additional_information": null,
+    "issue_images": "Electric Panel Manufacturer"
+  },
+  {
+    "report_name": "Building Inspection Report",
+    "issue_name": "AFCI",
+    "issue_type": "Marginal",
+    "issue_description": "One of the AFCI breaker needs replacement. GFCI, AFCI and CAFCI breakers need regular testing as per manufacturers recommendations. Make sure to take necessary precautions before testing it.",
+    "issue_summary": "Basement Electric Panel",
+    "additional_information": null,
+    "issue_images": "AFCI"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "report_name": "Inspection Report",
+    "issue_name": "Peeling paint/weathered conditions",
+    "issue_type": "Exterior Maintenance",
+    "issue_description": "Peeling paint/weathered conditions observed. Suggest scraping and painting/staining as necessary as part of normal maintenance.",
+    "issue_summary": "Exterior paint is peeling and weathered, requiring maintenance.",
+    "additional_information": "Regular maintenance is recommended to prevent further deterioration.",
+    "issue_images": [
+      "Peeling paint/weathered conditions"
+    ]
+  },
+  {
+    "report_name": "Inspection Report",
+    "issue_name": "Deteriorated shingles",
+    "issue_type": "Roof Maintenance",
+    "issue_description": "Deteriorated shingles observed. Recommend review by a licensed roofer for repair or replacement prior to close.",
+    "issue_summary": "Shingles on the garage roof are deteriorated and may need repair or replacement.",
+    "additional_information": "Consult a licensed roofer for further evaluation and repair.",
+    "issue_images": [
+      "Deteriorated shingles"
+    ]
+  },
+  {
+    "report_name": "Inspection Report",
+    "issue_name": "Reversed polarity detected",
+    "issue_type": "Electrical Safety",
+    "issue_description": "Reversed polarity, hot and neutral wires reversed, is usually easily corrected by minor wiring adjustments at the affected outlet(s).",
+    "issue_summary": "Reversed polarity detected in bathroom outlets, posing a safety risk.",
+    "additional_information": "A qualified electrical contractor is needed for repairs/corrections.",
+    "issue_images": [
+      "Reversed polarity detected"
+    ]
+  },
+  {
+    "report_name": "Inspection Report",
+    "issue_name": "Loose toilet bowl",
+    "issue_type": "Plumbing Maintenance",
+    "issue_description": "The toilet bowl is loose at floor anchor bolts. Properly resealing and re-securing this unit is suggested to prevent water leakage and damage to the sub-floor area.",
+    "issue_summary": "Toilet bowl is loose, risking water leakage and sub-floor damage.",
+    "additional_information": "Recommend review by a qualified plumber for repair or replacement, as necessary.",
+    "issue_images": [
+      "Loose toilet bowl"
+    ]
+  },
+  {
+    "report_name": "Inspection Report",
+    "issue_name": "S trap at kitchen sink",
+    "issue_type": "Plumbing Maintenance",
+    "issue_description": "An S trap was noted at kitchen sink. We recommend replacing with a P-trap to help prevent the venting of sewer gases inside the structure.",
+    "issue_summary": "S trap at kitchen sink may allow sewer gases to vent inside.",
+    "additional_information": "Replace with a P-trap for improved safety.",
+    "issue_images": [
+      "S trap at kitchen sink"
+    ]
+  },
+  {
+    "report_name": "Inspection Report",
+    "issue_name": "Open splice in basement",
+    "issue_type": "Electrical Safety",
+    "issue_description": "Open splice observed. This is a 'Safety Concern'. Whenever an electric wire is cut and reconnected, the 'splice' should be encased in a covered 'junction box' to prevent shocks and separation of the splice.",
+    "issue_summary": "Open splice in basement poses a safety risk.",
+    "additional_information": "Consult with a licensed electrician prior to closing for repairs/replacement as needed to ensure safety.",
+    "issue_images": [
+      "Open splice in basement"
+    ]
+  },
+  {
+    "report_name": "Inspection Report",
+    "issue_name": "Double tapping in electrical panel",
+    "issue_type": "Electrical Safety",
+    "issue_description": "Double tapping observed in main electrical panel. Double tapping (i.e. 2 wires on a single pole breaker) can add to the load of the affected circuit causing a possible overload and tripping breakers.",
+    "issue_summary": "Double tapping in electrical panel may cause circuit overload.",
+    "additional_information": "Recommend review by a qualified professional electrician for repair or replacement as necessary.",
+    "issue_images": [
+      "Double tapping in electrical panel"
+    ]
+  }
+]

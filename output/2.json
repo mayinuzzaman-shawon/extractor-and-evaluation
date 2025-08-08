@@ -1,0 +1,74 @@
+[
+  {
+    "report_name": "SAMPLE REPORT",
+    "issue_name": "Fuses or breakers too big",
+    "issue_type": "Electrical",
+    "issue_description": "A qualified electrician should further evaluate the breaker size compared to the gauge of wire. For example, there is a 40-amp breaker powering a 10-gauge wire. This breaker is also 'double-tapped' with an 8-gauge stranded wire, which is generally not permitted.",
+    "issue_summary": "Equipment overheating | Fire hazard",
+    "additional_information": "Location: Electrical panel in basement. Task: Further evaluation. Time: Immediate.",
+    "issue_images": "Fuses or breakers too big"
+  },
+  {
+    "report_name": "SAMPLE REPORT",
+    "issue_name": "Inoperative",
+    "issue_type": "Heating",
+    "issue_description": "The exhaust vent installation for the gas fireplace is incomplete and this will allow hazardous combustion gases into the home if used. This can be a life safety issue. A technician will need to evaluate the installation compared to the manufacturer's installation requirements and make corrections before this fireplace can be safely used.",
+    "issue_summary": "Life safety issue",
+    "additional_information": "Location: Basement. Task: Correct. Time: Before use.",
+    "issue_images": "Inoperative"
+  },
+  {
+    "report_name": "SAMPLE REPORT",
+    "issue_name": "Missing, loose or torn",
+    "issue_type": "Roofing",
+    "issue_description": "Sloped roofing material: Asphalt shingles. Missing/torn shingle(s).",
+    "issue_summary": "Chance of water damage to structure, finishes and contents",
+    "additional_information": "Location: Roof. Task: Repair. Time: As soon as possible.",
+    "issue_images": "Missing, loose or torn"
+  },
+  {
+    "report_name": "SAMPLE REPORT",
+    "issue_name": "Missing",
+    "issue_type": "Exterior",
+    "issue_description": "This window is at grade level. To reduce the potential for damage, a window well should be installed. Efforts should be made to keep water/snow away from the window until corrections are made. A window well cover can be a temporary proactive measure.",
+    "issue_summary": "Chance of water damage to structure, finishes and contents | Material deterioration",
+    "additional_information": "Location: Exterior. Task: Correct - Install window well. Time: As soon as reasonably practical.",
+    "issue_images": "Missing"
+  },
+  {
+    "report_name": "SAMPLE REPORT",
+    "issue_name": "Notches or holes",
+    "issue_type": "Structure",
+    "issue_description": "A joist has been notched to accommodate the bathtub plumbing trap. A bathtub can have significant weight when filled with water. A qualified contractor should advise on the appropriate repair method to re-support the joist.",
+    "issue_summary": "Weakened structure",
+    "additional_information": "Location: Basement. Task: Repair. Time: As soon as possible.",
+    "issue_images": "Notches or holes"
+  },
+  {
+    "report_name": "SAMPLE REPORT",
+    "issue_name": "Amount less than current standards",
+    "issue_type": "Insulation",
+    "issue_description": "The attic insulation is lower than current standards. Increasing insulation is considered a discretionary improvement that may improve comfort and lower energy bills. Check your eligibility for any home efficiency rebates.",
+    "issue_summary": "Increased heating and cooling costs",
+    "additional_information": "Location: Attic. Task: Improve. Time: Discretionary.",
+    "issue_images": "Amount less than current standards"
+  },
+  {
+    "report_name": "SAMPLE REPORT",
+    "issue_name": "Nonstandard shape or material",
+    "issue_type": "Plumbing",
+    "issue_description": "Residential traps should be P-type. The current waste plumbing installation (including the dishwasher connection downstream of the trap) should be evaluated by a qualified plumber and corrected. Monitor for odors that may indicate siphoning allowing sewer gases to enter the home.",
+    "issue_summary": "Reduced operability | Fixtures slow to drain",
+    "additional_information": "Location: Kitchen. Task: Correct. Time: As soon as reasonably practical.",
+    "issue_images": "Nonstandard shape or material"
+  },
+  {
+    "report_name": "SAMPLE REPORT",
+    "issue_name": "Water stains",
+    "issue_type": "Interior",
+    "issue_description": "The stain was checked with a moisture meter after running water in the bathroom above and did not have elevated levels at the time of the inspection. After repairs (i.e. painting) are completed, inspect the area periodically for any changes.",
+    "issue_summary": "Chance of water damage to structure, finishes and contents",
+    "additional_information": "Location: Living Room. Task: Repair, Monitor for future correction. Time: Ongoing (periodically following repairs).",
+    "issue_images": "Water stains"
+  }
+]

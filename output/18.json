@@ -1,0 +1,182 @@
+[
+  {
+    "report_name": "Report No. 1239, v.2",
+    "issue_name": "Trip hazards",
+    "issue_type": "Exterior",
+    "issue_description": "Rosie almost had a fall here.",
+    "issue_summary": "Trip hazards on the patio.",
+    "additional_information": "Implication(s): Physical injury",
+    "issue_images": "Trip hazards"
+  },
+  {
+    "report_name": "Report No. 1239, v.2",
+    "issue_name": "Inoperative",
+    "issue_type": "Electrical",
+    "issue_description": "This receptacle was not working and the wire is not protected from mechanical damage and the weather.",
+    "issue_summary": "Inoperative outlet on the front exterior wall.",
+    "additional_information": "Implication(s): Equipment inoperative",
+    "issue_images": "Inoperative"
+  },
+  {
+    "report_name": "Report No. 1239, v.2",
+    "issue_name": "Reversed polarity",
+    "issue_type": "Electrical",
+    "issue_description": "Reversed polarity in the second floor bedroom unit 2.",
+    "issue_summary": "Reversed polarity detected.",
+    "additional_information": "Implication(s): Electric shock",
+    "issue_images": "Reversed polarity"
+  },
+  {
+    "report_name": "Report No. 1239, v.2",
+    "issue_name": "Ungrounded",
+    "issue_type": "Electrical",
+    "issue_description": "There were ungrounded circuits noted throughout the house.",
+    "issue_summary": "Ungrounded circuits throughout the house.",
+    "additional_information": "Implication(s): Electric shock",
+    "issue_images": "Ungrounded"
+  },
+  {
+    "report_name": "Report No. 1239, v.2",
+    "issue_name": "Too few outlets",
+    "issue_type": "Electrical",
+    "issue_description": "This is an older home and there were many extension cords noted throughout the home.",
+    "issue_summary": "Too few outlets for modern needs.",
+    "additional_information": "Implication(s): Nuisance",
+    "issue_images": "Too few outlets"
+  },
+  {
+    "report_name": "Report No. 1239, v.2",
+    "issue_name": "Missing cover plates",
+    "issue_type": "Electrical",
+    "issue_description": "Missing cover plates on the rear exterior.",
+    "issue_summary": "Missing cover plates.",
+    "additional_information": "Implication(s): Electric shock",
+    "issue_images": "Missing cover plates"
+  },
+  {
+    "report_name": "Report No. 1239, v.2",
+    "issue_name": "Missing smoke detectors",
+    "issue_type": "Electrical",
+    "issue_description": "Missing smoke detectors in Unit 2.",
+    "issue_summary": "Missing smoke detectors.",
+    "additional_information": "Implication(s): Fire hazard",
+    "issue_images": "Missing smoke detectors"
+  },
+  {
+    "report_name": "Report No. 1239, v.2",
+    "issue_name": "Missing CO detectors",
+    "issue_type": "Electrical",
+    "issue_description": "Be sure to have Carbon Monoxide detectors installed on every level of your home.",
+    "issue_summary": "Missing CO detectors.",
+    "additional_information": "Implication(s): Carbon Monoxide poisoning from faulty gas appliances.",
+    "issue_images": "Missing CO detectors"
+  },
+  {
+    "report_name": "Report No. 1239, v.2",
+    "issue_name": "No pipe extension",
+    "issue_type": "Heating",
+    "issue_description": "Scalding and damage to nearby people and drywall is possible if this valve opens due to high pressures.",
+    "issue_summary": "No pipe extension on pressure relief valve.",
+    "additional_information": "Location: Basement Utility Room",
+    "issue_images": "No pipe extension"
+  },
+  {
+    "report_name": "Report No. 1239, v.2",
+    "issue_name": "Cold radiators",
+    "issue_type": "Heating",
+    "issue_description": "Some Rads were not responding to heat in unit 3.",
+    "issue_summary": "Cold radiators in unit 3.",
+    "additional_information": "Implication(s): Increased heating costs | Reduced comfort",
+    "issue_images": "Cold"
+  },
+  {
+    "report_name": "Report No. 1239, v.2",
+    "issue_name": "Loose, missing or deteriorated masonry",
+    "issue_type": "Chimney and Vent",
+    "issue_description": "Loose, missing or deteriorated masonry on the chimney.",
+    "issue_summary": "Chimney masonry issues.",
+    "additional_information": "Implication(s): Material deterioration",
+    "issue_images": "Loose, missing or deteriorated masonry"
+  },
+  {
+    "report_name": "Report No. 1239, v.2",
+    "issue_name": "Water heater life expectancy",
+    "issue_type": "Plumbing",
+    "issue_description": "Although this water heater is entering the typical projected end of life phase, it appears to be in good condition and performing well.",
+    "issue_summary": "Water heater nearing end of life.",
+    "additional_information": "Implication(s): Reduced performance and greater operating costs. Rust in tank",
+    "issue_images": "Water heater life expectancy"
+  },
+  {
+    "report_name": "Report No. 1239, v.2",
+    "issue_name": "Slow draining",
+    "issue_type": "Plumbing",
+    "issue_description": "Slow draining trap arm connects to galvanized steel drain pipe.",
+    "issue_summary": "Slow draining in first floor bathroom.",
+    "additional_information": "Implication(s): Possible Increased humidity levels in the area.",
+    "issue_images": "Slow draining"
+  },
+  {
+    "report_name": "Report No. 1239, v.2",
+    "issue_name": "Nonstandard trap shape or material",
+    "issue_type": "Plumbing",
+    "issue_description": "Nonstandard shape or material of trap in first floor kitchen.",
+    "issue_summary": "Nonstandard trap shape or material.",
+    "additional_information": "Implication(s): Reduced operability | Fixtures slow to drain",
+    "issue_images": "Nonstandard shape or material"
+  },
+  {
+    "report_name": "Report No. 1239, v.2",
+    "issue_name": "Replace valve in toilet",
+    "issue_type": "Plumbing",
+    "issue_description": "Replace valve in toilet as it is not performing as intended.",
+    "issue_summary": "Toilet valve replacement needed.",
+    "additional_information": "Implication(s): Leakage and poor performance",
+    "issue_images": "Replace valve in toilet"
+  },
+  {
+    "report_name": "Report No. 1239, v.2",
+    "issue_name": "Caulking loose, missing or deteriorated",
+    "issue_type": "Plumbing",
+    "issue_description": "Caulking loose, missing or deteriorated in Unit 1.",
+    "issue_summary": "Caulking issues in bathtub enclosure.",
+    "additional_information": "Implication(s): Chance of water damage to contents, finishes and/or structure",
+    "issue_images": "Caulking loose, missing or deteriorated"
+  },
+  {
+    "report_name": "Report No. 1239, v.2",
+    "issue_name": "Inoperable window hardware",
+    "issue_type": "Interior",
+    "issue_description": "Inoperable window hardware in Unit 1.",
+    "issue_summary": "Inoperable window hardware.",
+    "additional_information": "Implication(s): System inoperative or difficult to operate",
+    "issue_images": "Inoperable"
+  },
+  {
+    "report_name": "Report No. 1239, v.2",
+    "issue_name": "Missing window hardware",
+    "issue_type": "Interior",
+    "issue_description": "Missing window hardware in unit 1 and 2.",
+    "issue_summary": "Missing window hardware.",
+    "additional_information": "Implication(s): System inoperative or difficult to operate",
+    "issue_images": "Missing"
+  },
+  {
+    "report_name": "Report No. 1239, v.2",
+    "issue_name": "Leak in exhaust duct",
+    "issue_type": "Interior",
+    "issue_description": "Leak in exhaust duct, possibly unit 1's dryer vent duct.",
+    "issue_summary": "Leak in exhaust duct.",
+    "additional_information": "Implication(s): Chance of condensation damage to finishes and/or structure",
+    "issue_images": "Leak"
+  },
+  {
+    "report_name": "Report No. 1239, v.2",
+    "issue_name": "Inoperative doorbell",
+    "issue_type": "Interior",
+    "issue_description": "Inoperative doorbell in Unit 1.",
+    "issue_summary": "Inoperative doorbell.",
+    "additional_information": "Implication(s): Equipment inoperative",
+    "issue_images": "Inoperative"
+  }
+]

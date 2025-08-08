@@ -1,0 +1,83 @@
+[
+  {
+    "report_name": "Complete Home Inspections",
+    "issue_name": "Basement detector needs tape removed",
+    "issue_type": "Electrical",
+    "issue_description": "Basement smoke detector needs tape removed so if it went off you could hear it.",
+    "issue_summary": "Tape on basement smoke detector needs removal.",
+    "additional_information": null,
+    "issue_images": "Basement detector needs tape removed"
+  },
+  {
+    "report_name": "Complete Home Inspections",
+    "issue_name": "Furnace filter",
+    "issue_type": "Heating",
+    "issue_description": "Needs to be changed and arrow on filter needs to point towards furnace.",
+    "issue_summary": "Furnace filter needs replacement and correct positioning.",
+    "additional_information": null,
+    "issue_images": "Furnace filter"
+  },
+  {
+    "report_name": "Complete Home Inspections",
+    "issue_name": "Heat recovery ventilator (HRV)",
+    "issue_type": "Heating",
+    "issue_description": "The intake filter is dirty, both should be rinsed clean. This should be done every change of seasons when you change the furnace filter.",
+    "issue_summary": "HRV intake filter is dirty and needs cleaning.",
+    "additional_information": "Operator instructions can be found on Internet for Venmar HRV unit.",
+    "issue_images": "Heat recovery ventilator (HRV)"
+  },
+  {
+    "report_name": "Complete Home Inspections",
+    "issue_name": "Sump pump",
+    "issue_type": "Plumbing",
+    "issue_description": "Guess sump pump has never been needed because the electrical cord for pump and float is too short to reach outlet. This needs to be corrected.",
+    "issue_summary": "Sump pump electrical cord is too short to reach outlet.",
+    "additional_information": "About a $300.00 fix.",
+    "issue_images": "Sump pump"
+  },
+  {
+    "report_name": "Complete Home Inspections",
+    "issue_name": "Water softener",
+    "issue_type": "Plumbing",
+    "issue_description": "This is a rental and not being used because there is no salt in the tank, but they are still paying rental fee.",
+    "issue_summary": "Water softener needs salt.",
+    "additional_information": null,
+    "issue_images": "Water softener"
+  },
+  {
+    "report_name": "Complete Home Inspections",
+    "issue_name": "Closet doors",
+    "issue_type": "Interior",
+    "issue_description": "Both front bedrooms the closet doors need to be adjusted.",
+    "issue_summary": "Closet doors in front bedrooms need adjustment.",
+    "additional_information": "About $200.00",
+    "issue_images": "Closet doors"
+  },
+  {
+    "report_name": "Complete Home Inspections",
+    "issue_name": "Bath tubs",
+    "issue_type": "Interior",
+    "issue_description": "They have no drip edge so try not to set wet bottles or toys on outer edge because water will run over edge.",
+    "issue_summary": "Bath tubs lack drip edge.",
+    "additional_information": "Sides of walls are tile so if it does happen it won't damage drywall.",
+    "issue_images": "Bath tubs"
+  },
+  {
+    "report_name": "Complete Home Inspections",
+    "issue_name": "Plaster/drywall",
+    "issue_type": "Interior",
+    "issue_description": "Above front entry closet looks like drywall tape is coming loose.",
+    "issue_summary": "Drywall tape above front entry closet is coming loose.",
+    "additional_information": "About $400 repair.",
+    "issue_images": "Plaster/drywall"
+  },
+  {
+    "report_name": "Complete Home Inspections",
+    "issue_name": "Sliders",
+    "issue_type": "Interior",
+    "issue_description": "Basement window is cracked. They can have a window company come and just replace that section of slider.",
+    "issue_summary": "Cracked basement window slider.",
+    "additional_information": "Cost about $250.00",
+    "issue_images": "Sliders"
+  }
+]

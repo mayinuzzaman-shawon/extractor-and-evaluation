@@ -1,0 +1,110 @@
+[
+  {
+    "report_name": "SAMPLE REPORT",
+    "issue_name": "Undersized wires and open knock-outs.",
+    "issue_type": "Electrical",
+    "issue_description": "Undersized wires were noted at the breakers in the service panel. There were also open knock-outs present in the panel.",
+    "issue_summary": "Undersized wires at breakers and open knock-outs in the service panel.",
+    "additional_information": "Recommend further evaluation and repair by a licensed electrician.",
+    "issue_images": "Image of two electrical panels with wires."
+  },
+  {
+    "report_name": "SAMPLE REPORT",
+    "issue_name": "Improper wiring in sub-panel.",
+    "issue_type": "Electrical",
+    "issue_description": "The neutral and ground wires are connected on the same bus bar in the sub-panel. An undersized wire is also feeding the sub-panel from the service disconnect in the main panel.",
+    "issue_summary": "Improper wiring and undersized wire in the sub-panel.",
+    "additional_information": "Recommend further evaluation and repair by a licensed electrician.",
+    "issue_images": "Image of two electrical panels with wires."
+  },
+  {
+    "report_name": "SAMPLE REPORT",
+    "issue_name": "Scorching in sub-panel.",
+    "issue_type": "Electrical",
+    "issue_description": "Scorching was observed in the sub-panel.",
+    "issue_summary": "Evidence of overheating/scorching in the sub-panel.",
+    "additional_information": "Recommend further evaluation and repair by a licensed electrician.",
+    "issue_images": "Image of two electrical panels with wires."
+  },
+  {
+    "report_name": "SAMPLE REPORT",
+    "issue_name": "Missing light globe protector.",
+    "issue_type": "Electrical",
+    "issue_description": "A globe protector is missing on the light in the basement closet.",
+    "issue_summary": "Missing globe protector on light in basement closet.",
+    "additional_information": "Recommend further evaluation and repair by a licensed electrician.",
+    "issue_images": "Image of a bare light bulb in a closet."
+  },
+  {
+    "report_name": "SAMPLE REPORT",
+    "issue_name": "Ungrounded outlet in master bedroom.",
+    "issue_type": "Electrical",
+    "issue_description": "An un-grounded outlet was noted on the North wall of the master bedroom.",
+    "issue_summary": "Un-grounded outlet in master bedroom.",
+    "additional_information": "Recommend repair by a qualified electrician.",
+    "issue_images": null
+  },
+  {
+    "report_name": "SAMPLE REPORT",
+    "issue_name": "Worn asphalt shingles.",
+    "issue_type": "Roofing",
+    "issue_description": "The roof is showing signs of age by granular loss and worn edges of the shingles. Small abrasions were noted. Per the homeowner, a tree fell on the roof during a winter storm.",
+    "issue_summary": "Granular loss, worn edges, and small abrasions on shingles.",
+    "additional_information": "Recommend further evaluation and repair by a qualified roofing contractor.",
+    "issue_images": null
+  },
+  {
+    "report_name": "SAMPLE REPORT",
+    "issue_name": "Noisy fan/compressor.",
+    "issue_type": "Air Conditioner",
+    "issue_description": "The fan and/or compressor is noisy.",
+    "issue_summary": "Noisy fan or compressor on the air conditioner unit.",
+    "additional_information": null,
+    "issue_images": "Image of the outdoor air conditioner unit."
+  },
+  {
+    "report_name": "SAMPLE REPORT",
+    "issue_name": "Heaved and cracked sidewalk.",
+    "issue_type": "Exterior",
+    "issue_description": "The front sidewalk where it meets the approach of the driveway is heaved and cracked.",
+    "issue_summary": "Heaved and cracked sidewalk at the driveway.",
+    "additional_information": "Recommend repair/replacement by a qualified concrete contractor.",
+    "issue_images": null
+  },
+  {
+    "report_name": "SAMPLE REPORT",
+    "issue_name": "Front porch slopes towards house.",
+    "issue_type": "Exterior",
+    "issue_description": "The front porch slopes towards the house, which causes water to settle towards the home. The report recommends monitoring the condition as the siding is vinyl and there is no evidence of water intrusion.",
+    "issue_summary": "Improper slope on the front porch.",
+    "additional_information": "Since the siding of the home is vinyl and no evidence of water intrusion present, I recommend monitoring the conditions for future water intrusion issues.",
+    "issue_images": null
+  },
+  {
+    "report_name": "SAMPLE REPORT",
+    "issue_name": "Missing handrail on deck staircase.",
+    "issue_type": "Exterior",
+    "issue_description": "There are three or more steps present at the deck staircase, including the deck platform. It is recommended to install an appropriate sized handrail for safety.",
+    "issue_summary": "Missing handrail on deck staircase.",
+    "additional_information": "Recommend installing an appropriate sized handrail for safety.",
+    "issue_images": null
+  },
+  {
+    "report_name": "SAMPLE REPORT",
+    "issue_name": "Earth to wood contact at deck posts.",
+    "issue_type": "Exterior",
+    "issue_description": "There is earth to wood contact at the deck posts.",
+    "issue_summary": "Earth to wood contact at deck posts.",
+    "additional_information": "Recommend repairs by a qualified deck contractor.",
+    "issue_images": null
+  },
+  {
+    "report_name": "SAMPLE REPORT",
+    "issue_name": "Missing GFCI protection in basement bathroom.",
+    "issue_type": "Electrical",
+    "issue_description": "Missing GFCI protection in the half bath in the basement.",
+    "issue_summary": "Missing GFCI protected outlet in basement bathroom.",
+    "additional_information": "Recommend installing a GFCI protected outlet by a qualified electrician.",
+    "issue_images": null
+  }
+]

@@ -1,0 +1,263 @@
+[
+  {
+    "report_name": "Sample Report",
+    "issue_name": "Vertical crack of foundation wall",
+    "issue_type": "Structure",
+    "issue_description": "One vertical crack of foundation wall detected.",
+    "issue_summary": "The structure of the house is good except for one vertical crack of foundation wall.",
+    "additional_information": "Please keep an eye on it for its development.",
+    "issue_images": "Vertical crack of foundation wall"
+  },
+  {
+    "report_name": "Sample Report",
+    "issue_name": "Missing, loose or broken pieces",
+    "issue_type": "Roofing",
+    "issue_description": "Missing, loose or broken pieces on the roof.",
+    "issue_summary": "Sloped roofing has missing, loose or broken pieces.",
+    "additional_information": "Implication(s): Damage or physical injury due to falling materials | Chance of water damage to structure, finishes and contents.",
+    "issue_images": "Missing, loose or broken pieces"
+  },
+  {
+    "report_name": "Sample Report",
+    "issue_name": "Mice droppings in attic",
+    "issue_type": "Roofing",
+    "issue_description": "Mice droppings detected in the attic.",
+    "issue_summary": "Pest killer recommended to get rid of mice in the attic.",
+    "additional_information": "No leakage detected through attic access hatch.",
+    "issue_images": "Mice droppings in attic"
+  },
+  {
+    "report_name": "Sample Report",
+    "issue_name": "Cracks on exterior wall",
+    "issue_type": "Exterior",
+    "issue_description": "Several cracks on the exterior wall.",
+    "issue_summary": "The exterior of the house is in good condition except for several cracks.",
+    "additional_information": "Patching and monitoring recommended.",
+    "issue_images": "Cracks on exterior wall"
+  },
+  {
+    "report_name": "Sample Report",
+    "issue_name": "Plants and bushes too close to foundation",
+    "issue_type": "Exterior",
+    "issue_description": "Plants and bushes are too close to the foundation.",
+    "issue_summary": "Plants and bushes are recommended to be removed to decrease water damage to the foundation wall.",
+    "additional_information": "Downspouts drain below grade which is not a good installation.",
+    "issue_images": "Plants and bushes too close to foundation"
+  },
+  {
+    "report_name": "Sample Report",
+    "issue_name": "Furnace near life expectancy",
+    "issue_type": "Heating",
+    "issue_description": "The furnace is near its life expectancy.",
+    "issue_summary": "The heating system works well but the furnace is near its life expectancy.",
+    "additional_information": "Replacing is recommended when any of them doesn't work well.",
+    "issue_images": "Furnace near life expectancy"
+  },
+  {
+    "report_name": "Sample Report",
+    "issue_name": "Air conditioner near life expectancy",
+    "issue_type": "Cooling",
+    "issue_description": "The air conditioner is near its life expectancy.",
+    "issue_summary": "The cooling system (Air conditioner) is near its life expectancy, a replacement is expected in 2 years.",
+    "additional_information": "The evaporator coil system is invisible to inspect due to low outdoor temperature.",
+    "issue_images": "Air conditioner near life expectancy"
+  },
+  {
+    "report_name": "Sample Report",
+    "issue_name": "Insufficient attic insulation",
+    "issue_type": "Insulation",
+    "issue_description": "The insulation of the attic is 10 inches thickness of cellulose.",
+    "issue_summary": "A complement of fiberglass is recommended to get higher insulation and energy saving.",
+    "additional_information": "R-60 is recommended currently.",
+    "issue_images": "Insufficient attic insulation"
+  },
+  {
+    "report_name": "Sample Report",
+    "issue_name": "Cooktop inoperative",
+    "issue_type": "Appliances",
+    "issue_description": "The cooktop in the basement doesn't work.",
+    "issue_summary": "Further evaluation is recommended.",
+    "additional_information": "The main appliances in the kitchen work well including the range, microwave, dishwasher, freezer, and refrigerator.",
+    "issue_images": "Cooktop inoperative"
+  },
+  {
+    "report_name": "Sample Report",
+    "issue_name": "Water heater near life expectancy",
+    "issue_type": "Plumbing",
+    "issue_description": "The water heater is near its life expectancy.",
+    "issue_summary": "Replacing is expected in the near future.",
+    "additional_information": "The water heater works well.",
+    "issue_images": "Water heater near life expectancy"
+  },
+  {
+    "report_name": "Sample Report",
+    "issue_name": "Missing H-clips",
+    "issue_type": "Structure",
+    "issue_description": "H-clips missing in roof sheathing.",
+    "issue_summary": "The roof sheathing is in good condition despite no H-clips installed.",
+    "additional_information": "No leakage detected through attic access hatch.",
+    "issue_images": "Missing H-clips"
+  },
+  {
+    "report_name": "Sample Report",
+    "issue_name": "Leak in gutters",
+    "issue_type": "Exterior",
+    "issue_description": "Leak detected in gutters.",
+    "issue_summary": "Chance of water damage to structure, finishes and contents.",
+    "additional_information": "Location: Rear Exterior Wall.",
+    "issue_images": "Leak in gutters"
+  },
+  {
+    "report_name": "Sample Report",
+    "issue_name": "Discharge below grade",
+    "issue_type": "Exterior",
+    "issue_description": "Downspouts discharge below grade.",
+    "issue_summary": "Chance of water damage to structure, finishes and contents.",
+    "additional_information": "Location: Throughout Exterior Wall.",
+    "issue_images": "Discharge below grade"
+  },
+  {
+    "report_name": "Sample Report",
+    "issue_name": "Cracked masonry",
+    "issue_type": "Exterior",
+    "issue_description": "Cracked masonry on rear exterior wall.",
+    "issue_summary": "Weakened structure | Chance of movement | Chance of water entering building.",
+    "additional_information": "Repair and inspect annually.",
+    "issue_images": "Cracked masonry"
+  },
+  {
+    "report_name": "Sample Report",
+    "issue_name": "Trees or shrubs too close to building",
+    "issue_type": "Landscaping",
+    "issue_description": "Trees or shrubs are too close to the building.",
+    "issue_summary": "Chance of pests entering building | Material deterioration | Chance of water damage to structure, finishes and contents.",
+    "additional_information": "Correct as soon as practical.",
+    "issue_images": "Trees or shrubs too close to building"
+  },
+  {
+    "report_name": "Sample Report",
+    "issue_name": "Opens into bedroom",
+    "issue_type": "Garage",
+    "issue_description": "Garage door opens into bedroom.",
+    "issue_summary": "Hazardous combustion products entering home.",
+    "additional_information": "Location: East Garage.",
+    "issue_images": "Opens into bedroom"
+  },
+  {
+    "report_name": "Sample Report",
+    "issue_name": "Cracked foundation",
+    "issue_type": "Structure",
+    "issue_description": "Cracked foundation in west basement.",
+    "issue_summary": "Weakened structure | Chance of water damage to structure, finishes and contents.",
+    "additional_information": "Repair and inspect annually.",
+    "issue_images": "Cracked foundation"
+  },
+  {
+    "report_name": "Sample Report",
+    "issue_name": "Sagging roof sheathing",
+    "issue_type": "Structure",
+    "issue_description": "Sagging roof sheathing at rear roof.",
+    "issue_summary": "Weakened structure | Chance of structural movement.",
+    "additional_information": "Improve and inspect annually.",
+    "issue_images": "Sagging roof sheathing"
+  },
+  {
+    "report_name": "Sample Report",
+    "issue_name": "Not suitable for outdoor use",
+    "issue_type": "Electrical",
+    "issue_description": "Outlets not suitable for outdoor (exterior) use.",
+    "issue_summary": "Shock hazard or interruption of electrical service.",
+    "additional_information": "Replace as soon as possible.",
+    "issue_images": "Not suitable for outdoor use"
+  },
+  {
+    "report_name": "Sample Report",
+    "issue_name": "Test faulty on GFCI/GFI",
+    "issue_type": "Electrical",
+    "issue_description": "Test faulty on GFCI/GFI (Ground Fault Circuit Interrupter).",
+    "issue_summary": "Electric shock.",
+    "additional_information": "Repair or replace as soon as possible.",
+    "issue_images": "Test faulty on GFCI/GFI"
+  },
+  {
+    "report_name": "Sample Report",
+    "issue_name": "Smoke alarms past life expectancy",
+    "issue_type": "Electrical",
+    "issue_description": "Smoke alarms past life expectancy.",
+    "issue_summary": "Life safety hazard.",
+    "additional_information": "Replace immediately.",
+    "issue_images": "Smoke alarms past life expectancy"
+  },
+  {
+    "report_name": "Sample Report",
+    "issue_name": "Carbon monoxide alarms past life expectancy",
+    "issue_type": "Electrical",
+    "issue_description": "Carbon monoxide alarms past life expectancy.",
+    "issue_summary": "Health hazard | Life safety hazard.",
+    "additional_information": "Replace immediately.",
+    "issue_images": "Carbon monoxide alarms past life expectancy"
+  },
+  {
+    "report_name": "Sample Report",
+    "issue_name": "Clogged humidifier",
+    "issue_type": "Heating",
+    "issue_description": "Clogged pad, mesh or nozzle in humidifier.",
+    "issue_summary": "Equipment not operating properly.",
+    "additional_information": "Replace as soon as possible.",
+    "issue_images": "Clogged humidifier"
+  },
+  {
+    "report_name": "Sample Report",
+    "issue_name": "Animal/pest droppings in attic",
+    "issue_type": "Insulation",
+    "issue_description": "Animal/pest droppings in attic.",
+    "issue_summary": "Health hazard.",
+    "additional_information": "Remove as soon as possible.",
+    "issue_images": "Animal/pest droppings in attic"
+  },
+  {
+    "report_name": "Sample Report",
+    "issue_name": "Leak in basement bathroom",
+    "issue_type": "Plumbing",
+    "issue_description": "Leak in basin, sink and laundry tub.",
+    "issue_summary": "Chance of water damage to structure, finishes and contents | Sewage entering the building.",
+    "additional_information": "Repair as soon as possible.",
+    "issue_images": "Leak in basement bathroom"
+  },
+  {
+    "report_name": "Sample Report",
+    "issue_name": "Inoperative whirlpool bath pump",
+    "issue_type": "Plumbing",
+    "issue_description": "Whirlpool bath (Hydro-Massage Therapy Equipment) pump is inoperative.",
+    "issue_summary": "Equipment failure.",
+    "additional_information": "Repair when necessary.",
+    "issue_images": "Inoperative whirlpool bath pump"
+  },
+  {
+    "report_name": "Sample Report",
+    "issue_name": "Loose handrails and guards",
+    "issue_type": "Interior",
+    "issue_description": "Loose handrails and guards on third floor staircase.",
+    "issue_summary": "Fall hazard.",
+    "additional_information": "Repair as soon as possible.",
+    "issue_images": "Loose handrails and guards"
+  },
+  {
+    "report_name": "Sample Report",
+    "issue_name": "Mold in basement",
+    "issue_type": "Interior",
+    "issue_description": "Mold drywall spalling caused by previous long term water damage, currently dried.",
+    "issue_summary": "Contaminants may enter building air | Chance of water damage to structure, finishes and contents.",
+    "additional_information": "Change the damaged drywall and wood part recommended.",
+    "issue_images": "Mold in basement"
+  },
+  {
+    "report_name": "Sample Report",
+    "issue_name": "Inoperative range",
+    "issue_type": "Appliances",
+    "issue_description": "Range in basement kitchen is inoperative.",
+    "issue_summary": "Gas supply disconnected suspect.",
+    "additional_information": "Service when necessary.",
+    "issue_images": "Inoperative range"
+  }
+]

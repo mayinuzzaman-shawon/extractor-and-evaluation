@@ -1,0 +1,173 @@
+[
+  {
+    "report_name": "1234 Main Street Inspection Report",
+    "issue_name": "DOWNSPOUTS DRAIN NEAR HOUSE",
+    "issue_type": "Repair Item",
+    "issue_description": "One or more downspouts drain too close to the home's foundation. This can result in excessive moisture in the soil at the foundation, which can lead to water leakage or structural movement.",
+    "issue_summary": "Downspouts draining too close to foundation.",
+    "additional_information": "Recommend a qualified contractor or handyman to add extensions to drain minimum 4-6 feet from the foundation.",
+    "issue_images": "DOWNSPOUTS DRAIN NEAR HOUSE"
+  },
+  {
+    "report_name": "1234 Main Street Inspection Report",
+    "issue_name": "DOWNSPOUT DRAINING ON ROOF",
+    "issue_type": "Repair Item",
+    "issue_description": "Downspout observed to be draining onto the roof. This can cause premature wear of the shingles in this area.",
+    "issue_summary": "Downspout draining onto roof causing potential shingle wear.",
+    "additional_information": "Recommend a qualified aluminum or roofing contractor to install downspout extension to drain the water directly to the eavestrough below.",
+    "issue_images": "DOWNSPOUT DRAINING ON ROOF"
+  },
+  {
+    "report_name": "1234 Main Street Inspection Report",
+    "issue_name": "DOWNSPOUTS DRAIN UNDERGROUND",
+    "issue_type": "Deficiency",
+    "issue_description": "The downspout was found to be draining underground. The preferred method of discharging water is above grade, away from the foundation.",
+    "issue_summary": "Downspout draining underground, potential blockage risk.",
+    "additional_information": "Recommend a qualified contractor adjust downspout extensions to drain above grade, at least 6 feet from the foundation.",
+    "issue_images": "DOWNSPOUTS DRAIN UNDERGROUND"
+  },
+  {
+    "report_name": "1234 Main Street Inspection Report",
+    "issue_name": "CAULKING REQUIRED",
+    "issue_type": "Repair Item",
+    "issue_description": "Caulking sealant missing or deteriorated. Caulking is responsible for sealing vulnerable gaps in the building and for extending the life of building materials.",
+    "issue_summary": "Missing or deteriorated caulking on front exterior.",
+    "additional_information": "Recommend repairs.",
+    "issue_images": "CAULKING REQUIRED"
+  },
+  {
+    "report_name": "1234 Main Street Inspection Report",
+    "issue_name": "DOOR OBSTRUCTED",
+    "issue_type": "Maintenance Item",
+    "issue_description": "The front door is obstructed from fully opening by a wall mounted shelf. This is a double door system and is the side of the door which is not used for typical daily use.",
+    "issue_summary": "Front door obstructed by wall mounted shelf.",
+    "additional_information": "Recommend removing the shelf.",
+    "issue_images": "DOOR OBSTRUCTED"
+  },
+  {
+    "report_name": "1234 Main Street Inspection Report",
+    "issue_name": "FILL CRACKS ON LANDSCAPE STONES",
+    "issue_type": "Repair Item",
+    "issue_description": "The interlocking walkway is missing jointing sand between stones, which can lead to movement of the walkway.",
+    "issue_summary": "Missing jointing sand in interlocking walkway.",
+    "additional_information": "Recommend the installation of polymeric sand to fill the gaps and extend the life of the interlocking.",
+    "issue_images": "FILL CRACKS ON LANDSCAPE STONES"
+  },
+  {
+    "report_name": "1234 Main Street Inspection Report",
+    "issue_name": "FOUNDATION CRACKS - MINOR",
+    "issue_type": "Repair Item",
+    "issue_description": "Minor cracking was noted at the foundation. This condition is common as concrete ages and shrinkage cracks occur.",
+    "issue_summary": "Minor foundation cracks observed.",
+    "additional_information": "If the crack becomes larger or begins to leak, a foundation repair contractor should be contacted for repairs.",
+    "issue_images": "FOUNDATION CRACKS - MINOR"
+  },
+  {
+    "report_name": "1234 Main Street Inspection Report",
+    "issue_name": "PARGING DAMAGE",
+    "issue_type": "Repair Item",
+    "issue_description": "Parging damage was noted. Parging plays an important role in the foundation wall, both aesthetically and functionally to help keep water away from the foundation.",
+    "issue_summary": "Parging damage on garage front.",
+    "additional_information": "Recommend hiring a general contractor or masonry contractor to repair.",
+    "issue_images": "PARGING DAMAGE"
+  },
+  {
+    "report_name": "1234 Main Street Inspection Report",
+    "issue_name": "AIR CONDITIONER COIL LEAK",
+    "issue_type": "Repair Item",
+    "issue_description": "The air conditioner coil is leaking. This could lead to equipment failure and damage to the interior finishings.",
+    "issue_summary": "Leaking air conditioner coil in furnace.",
+    "additional_information": "Recommend a qualified HVAC contractor to investigate and repair as soon as possible.",
+    "issue_images": "AIR CONDITIONER COIL LEAK"
+  },
+  {
+    "report_name": "1234 Main Street Inspection Report",
+    "issue_name": "REPLACE FILTER",
+    "issue_type": "Maintenance Item",
+    "issue_description": "Annual humidifier filter replacement is required to improve interior air quality.",
+    "issue_summary": "Humidifier filter replacement needed.",
+    "additional_information": "Recommend replacing each fall.",
+    "issue_images": "REPLACE FILTER"
+  },
+  {
+    "report_name": "1234 Main Street Inspection Report",
+    "issue_name": "SILICONE REQUIRED",
+    "issue_type": "Deficiency",
+    "issue_description": "Silicone sealant needs to be installed or replaced. Silicone is an important part of the waterproofing system.",
+    "issue_summary": "Silicone sealant needed for master bathroom tub.",
+    "additional_information": "Recommend installation as soon as possible to limit chance of water leakage.",
+    "issue_images": "SILICONE REQUIRED"
+  },
+  {
+    "report_name": "1234 Main Street Inspection Report",
+    "issue_name": "FAUCET UPGRADE",
+    "issue_type": "Maintenance Item",
+    "issue_description": "The faucet is older and the diverter is partially obstructed. It is still functional, so replacement only when desired.",
+    "issue_summary": "Older kitchen faucet with partially obstructed diverter.",
+    "additional_information": "Replacement only when desired.",
+    "issue_images": "FAUCET UPGRADE"
+  },
+  {
+    "report_name": "1234 Main Street Inspection Report",
+    "issue_name": "ANTI-OXIDANT PASTE - MISSING OR DAMAGED",
+    "issue_type": "Deficiency",
+    "issue_description": "Missing anti-oxidant paste was observed on the electrical wires. Anti-oxidant paste is required on multi-strand aluminum conductors to limit the chance of corrosion and electrical hazards.",
+    "issue_summary": "Missing anti-oxidant paste on hot tub electrical wires.",
+    "additional_information": "Recommend repairs by a qualified electrical contractor.",
+    "issue_images": "ANTI-OXIDANT PASTE - MISSING OR DAMAGED"
+  },
+  {
+    "report_name": "1234 Main Street Inspection Report",
+    "issue_name": "DOUBLE TAPS",
+    "issue_type": "Deficiency",
+    "issue_description": "Double taps noted on panel. This occurs when multiple wires are connected to a terminal designed for one. This is an electrical hazard.",
+    "issue_summary": "Double taps on electrical panel.",
+    "additional_information": "Recommend having a licensed electrician further evaluate and repair.",
+    "issue_images": "DOUBLE TAPS"
+  },
+  {
+    "report_name": "1234 Main Street Inspection Report",
+    "issue_name": "COVER PLATES MISSING",
+    "issue_type": "Repair Item",
+    "issue_description": "One or more receptacles are missing a cover plate. This causes short and shock risk for occupants.",
+    "issue_summary": "Missing cover plates on basement receptacles.",
+    "additional_information": "Recommend installation of cover plate(s).",
+    "issue_images": "COVER PLATES MISSING"
+  },
+  {
+    "report_name": "1234 Main Street Inspection Report",
+    "issue_name": "SIGNS OF WATER LEAKAGE",
+    "issue_type": "Deficiency",
+    "issue_description": "Signs of water leakage were present on the kitchen ceiling. The bathroom above includes a shower and bathtub. Thermal imaging showed areas which were inconsistent with adjacent surfaces, indicating a leak.",
+    "issue_summary": "Water leakage signs on kitchen ceiling.",
+    "additional_information": "Recommend having a plumbing contractor evaluate and repair as necessary.",
+    "issue_images": "SIGNS OF WATER LEAKAGE"
+  },
+  {
+    "report_name": "1234 Main Street Inspection Report",
+    "issue_name": "NO HANDRAIL AND POOR SUPPORT",
+    "issue_type": "Deficiency",
+    "issue_description": "The garage staircase had no handrails, which is a safety hazard. The attic storage structure is also poorly supported and unsafe for occupants.",
+    "issue_summary": "No handrail and poor support on garage staircase.",
+    "additional_information": "Repairs should be completed by a carpentry contractor before it is used.",
+    "issue_images": "NO HANDRAIL AND POOR SUPPORT"
+  },
+  {
+    "report_name": "1234 Main Street Inspection Report",
+    "issue_name": "CABINETS DAMAGED",
+    "issue_type": "Maintenance Item",
+    "issue_description": "Damage was noted on the kitchen cabinets.",
+    "issue_summary": "Damaged kitchen cabinets.",
+    "additional_information": "Recommend a qualified cabinets contractor evaluate and repair.",
+    "issue_images": "CABINETS DAMAGED"
+  },
+  {
+    "report_name": "1234 Main Street Inspection Report",
+    "issue_name": "FIRE WALL/CEILING NOT UP TO CODE",
+    "issue_type": "Deficiency",
+    "issue_description": "The garage ceiling separating the home and garage is not compliant with modern building standards. Fires often originate in the garage, so firewalls should be built with materials to prevent the spreading of a fire into the home living space.",
+    "issue_summary": "Garage fire wall/ceiling not up to code.",
+    "additional_information": "Recommend hiring a qualified contractor to frame and install drywall to meet building code requirements.",
+    "issue_images": "FIRE WALL/CEILING NOT UP TO CODE"
+  }
+]

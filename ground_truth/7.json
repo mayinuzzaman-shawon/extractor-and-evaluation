@@ -1,0 +1,96 @@
+[
+  {
+    "report_name": "SAMPLE REPORT",
+    "issue_name": "Furnace filter needs to be changed.",
+    "issue_type": "Heating",
+    "issue_description": "The furnace filter needs to be changed, and the arrow on the filter needs to point towards the furnace.",
+    "issue_summary": "Furnace filter needs to be changed and oriented correctly.",
+    "additional_information": "The furnace has a slight noise from air going around the tape. An additional piece of metal tape is needed. Roll of tape is under $20.00.",
+    "issue_images": "Image of the furnace filter with dimensions 16x25x1."
+  },
+  {
+    "report_name": "SAMPLE REPORT",
+    "issue_name": "Heat recovery ventilator (HRV) filters are dirty.",
+    "issue_type": "Heating",
+    "issue_description": "The intake filter for the Heat recovery ventilator (HRV) is dirty. Both filters should be rinsed clean. This should be done every change of seasons when the furnace filter is changed.",
+    "issue_summary": "Dirty HRV filters.",
+    "additional_information": "Operator instructions can be found online for the Venmar HRV unit.",
+    "issue_images": [
+      "Image of the HRV control.",
+      "Image of the HRV with two washable filters.",
+      "Image of a dirty filter."
+    ]
+  },
+  {
+    "report_name": "SAMPLE REPORT",
+    "issue_name": "Sump pump electrical cord is too short.",
+    "issue_type": "Plumbing",
+    "issue_description": "The electrical cord for the sump pump and float is too short to reach the outlet. This needs to be corrected.",
+    "issue_summary": "Sump pump has never been used because of the short cord.",
+    "additional_information": "The fix is about $300.00.",
+    "issue_images": "Image of the sump pump."
+  },
+  {
+    "report_name": "SAMPLE REPORT",
+    "issue_name": "Water softener is not in use.",
+    "issue_type": "Plumbing",
+    "issue_description": "The water softener is a rental unit but is not being used because there is no salt in the tank, yet the rental fee is still being paid.",
+    "issue_summary": "Water softener is inoperative.",
+    "additional_information": "The tank needs salt.",
+    "issue_images": "Image of the water softener."
+  },
+  {
+    "report_name": "SAMPLE REPORT",
+    "issue_name": "Closet doors need adjustment.",
+    "issue_type": "Interior",
+    "issue_description": "The closet doors in both front bedrooms need to be adjusted.",
+    "issue_summary": "Closet doors need to be adjusted.",
+    "additional_information": "Repair cost is about $200.00.",
+    "issue_images": "Image of the closet doors."
+  },
+  {
+    "report_name": "SAMPLE REPORT",
+    "issue_name": "Drywall tape is loose.",
+    "issue_type": "Interior",
+    "issue_description": "The drywall tape above the front entry closet looks loose.",
+    "issue_summary": "Loose drywall tape on ceiling.",
+    "additional_information": "Repair cost is about $400.",
+    "issue_images": "Image of the loose drywall tape on the ceiling."
+  },
+  {
+    "report_name": "SAMPLE REPORT",
+    "issue_name": "Basement window is cracked.",
+    "issue_type": "Interior",
+    "issue_description": "The basement window is cracked. A window company can replace just that section of the slider.",
+    "issue_summary": "Cracked basement window.",
+    "additional_information": "The repair would cost about $250.00.",
+    "issue_images": "Image of the cracked basement window."
+  },
+  {
+    "report_name": "SAMPLE REPORT",
+    "issue_name": "Smoke alarm has tape on it.",
+    "issue_type": "Electrical",
+    "issue_description": "The smoke detector in the basement has tape that needs to be removed. If it went off, you would not be able to hear it.",
+    "issue_summary": "Basement smoke detector needs tape removed.",
+    "additional_information": null,
+    "issue_images": "Image of a combination type (photoelectric and ionization) smoke alarm."
+  },
+  {
+    "report_name": "SAMPLE REPORT",
+    "issue_name": "Missing drip edge on bathtubs.",
+    "issue_type": "Interior",
+    "issue_description": "The bathtubs have no drip edge, so water will run over the outer edge if wet bottles or toys are placed there. The walls are tiled, so it won't damage the drywall if this happens.",
+    "issue_summary": "Bathtubs lack a drip edge.",
+    "additional_information": null,
+    "issue_images": "Image of the bathtubs."
+  },
+  {
+    "report_name": "SAMPLE REPORT",
+    "issue_name": "No issues found.",
+    "issue_type": "Various",
+    "issue_description": "The following items were inspected and found to have no concerns: Composition shingles, roof structure (trusses and plywood sheathing), electrical panel, GFCI outlets, electric fireplace, air conditioning, and attic insulation.",
+    "issue_summary": "No issues found in these areas.",
+    "additional_information": null,
+    "issue_images": null
+  }
+]

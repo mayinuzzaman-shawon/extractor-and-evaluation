@@ -1,0 +1,119 @@
+[
+  {
+    "report_name": "Report No. 1002, v.3",
+    "issue_name": "Old, worn out Asphalt shingles",
+    "issue_type": "Roofing",
+    "issue_description": "Sloped roofing \\ Asphalt shingles",
+    "issue_summary": "Old, worn out",
+    "additional_information": "Implication(s): Chance of water damage to contents, finishes and/or structure. Location: Throughout. Task: Replace. Time: Immediate. Cost: $4,000 - And up",
+    "issue_images": "Old, worn out Asphalt shingles"
+  },
+  {
+    "report_name": "Report No. 1002, v.3",
+    "issue_name": "Torn, patched Valley flashings",
+    "issue_type": "Roofing",
+    "issue_description": "Sloped roof flashings \\ Valley flashings",
+    "issue_summary": "Torn, patched",
+    "additional_information": "Implication(s): Chance of water damage to contents, finishes and/or structure. Location: Throughout. Task: Replace. Time: Immediate",
+    "issue_images": "Torn, patched Valley flashings"
+  },
+  {
+    "report_name": "Report No. 1002, v.3",
+    "issue_name": "Damage, loose, open seams, patched Chimney flashings",
+    "issue_type": "Roofing",
+    "issue_description": "Sloped roof flashings \\ Chimney flashings",
+    "issue_summary": "Damage, loose, open seams, patched",
+    "additional_information": "Implication(s): Chance of water damage to contents, finishes and/or structure. Location: Throughout. Task: Repair or replace. Time: Immediate",
+    "issue_images": "Damage, loose, open seams, patched Chimney flashings"
+  },
+  {
+    "report_name": "Report No. 1002, v.3",
+    "issue_name": "Damage Downspouts",
+    "issue_type": "Exterior",
+    "issue_description": "Roof drainage \\ Downspouts",
+    "issue_summary": "Damage",
+    "additional_information": "Implication(s): Chance of water damage to contents, finishes and/or structure. Location: South. Task: Repair or replace. Time: Immediate. Cost: Depends on approach",
+    "issue_images": "Damage Downspouts"
+  },
+  {
+    "report_name": "Report No. 1002, v.3",
+    "issue_name": "Landings missing or undersized",
+    "issue_type": "Exterior",
+    "issue_description": "Porches, decks, steps, patios and balconies \\ Steps and landings",
+    "issue_summary": "Landings missing or undersized",
+    "additional_information": "Implication(s): Trip or fall hazard. Location: North First floor. Task: Provide. Time: Immediate. Cost: Depends on approach",
+    "issue_images": "Landings missing or undersized"
+  },
+  {
+    "report_name": "Report No. 1002, v.3",
+    "issue_name": "Missing Handrails and guards",
+    "issue_type": "Exterior",
+    "issue_description": "Porches, decks, steps, patios and balconies \\ Handrails and guards",
+    "issue_summary": "Missing",
+    "additional_information": "Implication(s): Fall hazard. Location: North. Task: Provide. Time: Immediate. Cost: Depends on work needed",
+    "issue_images": "Missing Handrails and guards"
+  },
+  {
+    "report_name": "Report No. 1002, v.3",
+    "issue_name": "Water stains on Roof framing",
+    "issue_type": "Structure",
+    "issue_description": "Roof framing \\ Sheathing",
+    "issue_summary": "Water stains",
+    "additional_information": "Implication(s): Material deterioration. Location: Throughout Attic. Task: Repair or replace. Time: Less than 1 year. Cost: Depends on work needed",
+    "issue_images": "Water stains on Roof framing"
+  },
+  {
+    "report_name": "Report No. 1002, v.3",
+    "issue_name": "Outdated Knob-and-tube",
+    "issue_type": "Electrical",
+    "issue_description": "Distribution system \\ Knob-and-tube",
+    "issue_summary": "Outdated",
+    "additional_information": "Implication(s): Nuisance | Potential problem when obtaining home insurance. Location: Various. Task: Replace. Time: If necessary. Cost: Depends on work needed",
+    "issue_images": "Outdated Knob-and-tube"
+  },
+  {
+    "report_name": "Report No. 1002, v.3",
+    "issue_name": "Loose Outlets",
+    "issue_type": "Electrical",
+    "issue_description": "Distribution system \\ Outlets",
+    "issue_summary": "Loose",
+    "additional_information": "Implication(s): Electric shock | Fire hazard. Location: Basement. Task: Repair. Time: Immediate. Cost: Minor",
+    "issue_images": "Loose Outlets"
+  },
+  {
+    "report_name": "Report No. 1002, v.3",
+    "issue_name": "Missing Cover plates",
+    "issue_type": "Electrical",
+    "issue_description": "Distribution system \\ Cover plates",
+    "issue_summary": "Missing",
+    "additional_information": "Implication(s): Electric shock. Location: Basement. Task: Provide. Time: Immediate. Cost: Minor",
+    "issue_images": "Missing Cover plates"
+  },
+  {
+    "report_name": "Report No. 1002, v.3",
+    "issue_name": "Water damage on Plaster or drywall",
+    "issue_type": "Interior",
+    "issue_description": "Walls \\ Plaster or drywall",
+    "issue_summary": "Water damage",
+    "additional_information": "Implication(s): Cosmetic defects. Location: Various Basement. Task: Repair. Time: Less than 1 year. Cost: Depends on work needed",
+    "issue_images": "Water damage on Plaster or drywall"
+  },
+  {
+    "report_name": "Report No. 1002, v.3",
+    "issue_name": "Water leaks in Windows",
+    "issue_type": "Interior",
+    "issue_description": "Windows \\ General",
+    "issue_summary": "Water leaks",
+    "additional_information": "Implication(s): Chance of damage to finishes and structure | Chance of damage to structure. Location: Various Basement. Task: Repair. Time: Less than 1 year. Cost: Depends on work needed",
+    "issue_images": "Water leaks in Windows"
+  },
+  {
+    "report_name": "Report No. 1002, v.3",
+    "issue_name": "Rot in Window Frames",
+    "issue_type": "Interior",
+    "issue_description": "Windows \\ Frames",
+    "issue_summary": "Rot",
+    "additional_information": "Implication(s): Cosmetic defects | Chance of damage to structure | Material deterioration. Location: Various Basement. Task: Repair or replace. Time: Discretionary. Cost: Depends on work needed",
+    "issue_images": "Rot in Window Frames"
+  }
+]

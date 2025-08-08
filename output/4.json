@@ -1,0 +1,128 @@
+[
+  {
+    "report_name": "Global Property Inspections",
+    "issue_name": "Undersized Wires at Breakers",
+    "issue_type": "Electrical",
+    "issue_description": "Undersized wires noted at breakers in service panel.",
+    "issue_summary": "Undersized wires at breakers in service panel.",
+    "additional_information": "Recommend further evaluation and repair by a licensed electrician.",
+    "issue_images": "Undersized Wires at Breakers"
+  },
+  {
+    "report_name": "Global Property Inspections",
+    "issue_name": "Open Knock-outs in Panel",
+    "issue_type": "Electrical",
+    "issue_description": "Open knock-outs present in panel.",
+    "issue_summary": "Open knock-outs in panel.",
+    "additional_information": "Recommend further evaluation and repair by a licensed electrician.",
+    "issue_images": "Open Knock-outs in Panel"
+  },
+  {
+    "report_name": "Global Property Inspections",
+    "issue_name": "Neutral and Ground Wires on Same Bus Bar",
+    "issue_type": "Electrical",
+    "issue_description": "Neutral and ground wires are connected on the same bus bar in sub-panel.",
+    "issue_summary": "Neutral and ground wires on same bus bar in sub-panel.",
+    "additional_information": "Recommend further evaluation and repair by a licensed electrician.",
+    "issue_images": "Neutral and Ground Wires on Same Bus Bar"
+  },
+  {
+    "report_name": "Global Property Inspections",
+    "issue_name": "Under-sized Wire Feeding Sub-panel",
+    "issue_type": "Electrical",
+    "issue_description": "Under-sized wire feeding sub-panel from service disconnect in main panel.",
+    "issue_summary": "Under-sized wire feeding sub-panel.",
+    "additional_information": "Recommend further evaluation and repair by a licensed electrician.",
+    "issue_images": "Under-sized Wire Feeding Sub-panel"
+  },
+  {
+    "report_name": "Global Property Inspections",
+    "issue_name": "Scorching in Sub-panel",
+    "issue_type": "Electrical",
+    "issue_description": "Scorching observed in sub-panel.",
+    "issue_summary": "Scorching in sub-panel.",
+    "additional_information": "Recommend further evaluation and repair by a licensed electrician.",
+    "issue_images": "Scorching in Sub-panel"
+  },
+  {
+    "report_name": "Global Property Inspections",
+    "issue_name": "Missing Globe Protector",
+    "issue_type": "Electrical",
+    "issue_description": "Missing globe protector on light in basement closet.",
+    "issue_summary": "Missing globe protector on basement closet light.",
+    "additional_information": "Recommend further evaluation and repair by a licensed electrician.",
+    "issue_images": "Missing Globe Protector"
+  },
+  {
+    "report_name": "Global Property Inspections",
+    "issue_name": "Open Grounded Outlet in Master Bedroom",
+    "issue_type": "Electrical",
+    "issue_description": "Open grounded outlet in master bedroom.",
+    "issue_summary": "Open grounded outlet in master bedroom.",
+    "additional_information": "Recommend further evaluation and repair by a licensed electrician.",
+    "issue_images": "Open Grounded Outlet in Master Bedroom"
+  },
+  {
+    "report_name": "Global Property Inspections",
+    "issue_name": "Roof Granular Loss and Worn Edges",
+    "issue_type": "Roofing",
+    "issue_description": "Roof is showing signs of age by granular loss and worn edges of the shingles.",
+    "issue_summary": "Granular loss and worn edges on roof shingles.",
+    "additional_information": "Per homeowner, a tree fell on the roof during a winter storm. Recommend further evaluation and repair by a qualified roofing contractor.",
+    "issue_images": "Roof Granular Loss and Worn Edges"
+  },
+  {
+    "report_name": "Global Property Inspections",
+    "issue_name": "Heaved and Cracked Driveway",
+    "issue_type": "Driveway",
+    "issue_description": "Front side walk where it meets the approach of the driveway is heaved and cracked.",
+    "issue_summary": "Heaved and cracked driveway.",
+    "additional_information": "Recommend repair/replacement by a qualified concrete contractor.",
+    "issue_images": "Heaved and Cracked Driveway"
+  },
+  {
+    "report_name": "Global Property Inspections",
+    "issue_name": "Sloping Front Porch",
+    "issue_type": "Porches/Stoops",
+    "issue_description": "Front porch slopes towards house, which causes water to settle towards the house.",
+    "issue_summary": "Sloping front porch causing water settlement.",
+    "additional_information": "Recommend monitoring the conditions for future water intrusion issues.",
+    "issue_images": "Sloping Front Porch"
+  },
+  {
+    "report_name": "Global Property Inspections",
+    "issue_name": "Missing Handrail on Deck",
+    "issue_type": "Decks/Balcony",
+    "issue_description": "Three steps or more present at deck staircase including deck platform. Recommend installing an appropriate sized handrail for safety.",
+    "issue_summary": "Missing handrail on deck staircase.",
+    "additional_information": "Recommend repairs by a qualified deck contractor.",
+    "issue_images": "Missing Handrail on Deck"
+  },
+  {
+    "report_name": "Global Property Inspections",
+    "issue_name": "Earth to Wood Contact at Deck Posts",
+    "issue_type": "Decks/Balcony",
+    "issue_description": "Earth to wood contact at the deck posts.",
+    "issue_summary": "Earth to wood contact at deck posts.",
+    "additional_information": "Recommend repairs by a qualified deck contractor.",
+    "issue_images": "Earth to Wood Contact at Deck Posts"
+  },
+  {
+    "report_name": "Global Property Inspections",
+    "issue_name": "Missing GFCI Protection in Basement Bathroom",
+    "issue_type": "1/2 Bathroom (Basement)",
+    "issue_description": "Missing GFCI protection in 1/2 bath in basement.",
+    "issue_summary": "Missing GFCI protection in basement bathroom.",
+    "additional_information": "Recommend installing GFCI protected outlet by a qualified electrician.",
+    "issue_images": "Missing GFCI Protection in Basement Bathroom"
+  },
+  {
+    "report_name": "Global Property Inspections",
+    "issue_name": "Un-grounded Outlet in Master Bedroom",
+    "issue_type": "Interior Room Master Bedroom",
+    "issue_description": "Un-grounded outlet noted in master bedroom North wall.",
+    "issue_summary": "Un-grounded outlet in master bedroom.",
+    "additional_information": "Recommend repair by a qualified electrician.",
+    "issue_images": "Un-grounded Outlet in Master Bedroom"
+  }
+]

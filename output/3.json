@@ -1,0 +1,173 @@
+[
+  {
+    "report_name": "Report No. 3284, v.6",
+    "issue_name": "Notches or holes in joists",
+    "issue_type": "Structural",
+    "issue_description": "Previous repairs noted.",
+    "issue_summary": "Weakened structure",
+    "additional_information": "Location: West. Task: Repair",
+    "issue_images": "Notches or holes in joists"
+  },
+  {
+    "report_name": "Report No. 3284, v.6",
+    "issue_name": "Rust or water in panel",
+    "issue_type": "Electrical",
+    "issue_description": "Rust or water present in the distribution panel.",
+    "issue_summary": "Electric shock | Fire hazard",
+    "additional_information": "Location: North Basement. Task: Replace",
+    "issue_images": "Rust or water in panel"
+  },
+  {
+    "report_name": "Report No. 3284, v.6",
+    "issue_name": "Kickout flashing - missing",
+    "issue_type": "Roofing",
+    "issue_description": "Kickout flashing is missing at roof/sidewall junction.",
+    "issue_summary": "Chance of water damage to structure, finishes and contents",
+    "additional_information": "Location: North First Floor. Task: Improve",
+    "issue_images": "Kickout flashing - missing"
+  },
+  {
+    "report_name": "Report No. 3284, v.6",
+    "issue_name": "Leak in pipe/stack flashings",
+    "issue_type": "Roofing",
+    "issue_description": "Leak detected in pipe/stack flashings.",
+    "issue_summary": "Chance of water damage to structure, finishes and contents",
+    "additional_information": "Location: North. Task: Repair",
+    "issue_images": "Leak in pipe/stack flashings"
+  },
+  {
+    "report_name": "Report No. 3284, v.6",
+    "issue_name": "Downspouts discharge too close to building",
+    "issue_type": "Exterior",
+    "issue_description": "The downspout should be extended to discharge at least 6 feet from the home.",
+    "issue_summary": "Chance of water damage to structure, finishes and contents",
+    "additional_information": "Location: East Exterior Wall. Task: Improve",
+    "issue_images": "Downspouts discharge too close to building"
+  },
+  {
+    "report_name": "Report No. 3284, v.6",
+    "issue_name": "Too few downspouts",
+    "issue_type": "Exterior",
+    "issue_description": "More downspouts will help reduce the risk of basement flooding.",
+    "issue_summary": "Chance of water damage to structure, finishes and contents",
+    "additional_information": "Location: Various. Task: Provide",
+    "issue_images": "Too few downspouts"
+  },
+  {
+    "report_name": "Report No. 3284, v.6",
+    "issue_name": "Fastener problems in joists",
+    "issue_type": "Exterior",
+    "issue_description": "Joist hangers for wood deck are not properly secured.",
+    "issue_summary": "Weakened structure | Chance of movement",
+    "additional_information": "Location: North Exterior Wall. Task: Improve",
+    "issue_images": "Fastener problems in joists"
+  },
+  {
+    "report_name": "Report No. 3284, v.6",
+    "issue_name": "Split in truss",
+    "issue_type": "Structural",
+    "issue_description": "Truss repairs must be designed by an engineer.",
+    "issue_summary": "Weakened structure | Chance of structural movement",
+    "additional_information": "Location: North Attic. Task: Repair",
+    "issue_images": "Split in truss"
+  },
+  {
+    "report_name": "Report No. 3284, v.6",
+    "issue_name": "Abandoned wire",
+    "issue_type": "Electrical",
+    "issue_description": "Abandoned wire found in the basement furnace room.",
+    "issue_summary": "Electric shock",
+    "additional_information": "Location: Basement Furnace Room. Task: Improve",
+    "issue_images": "Abandoned wire"
+  },
+  {
+    "report_name": "Report No. 3284, v.6",
+    "issue_name": "Wiring too close to edge of studs or joists",
+    "issue_type": "Electrical",
+    "issue_description": "Wiring is too close to the edge of studs or joists.",
+    "issue_summary": "Electric shock | Fire hazard",
+    "additional_information": "Location: Basement Furnace Room. Task: Improve",
+    "issue_images": "Wiring too close to edge of studs or joists"
+  },
+  {
+    "report_name": "Report No. 3284, v.6",
+    "issue_name": "Loose light fixture",
+    "issue_type": "Electrical",
+    "issue_description": "Light fixture is not well secured.",
+    "issue_summary": "Electric shock | Fire hazard",
+    "additional_information": "Location: East Exterior Wall. Task: Repair or replace",
+    "issue_images": "Loose light fixture"
+  },
+  {
+    "report_name": "Report No. 3284, v.6",
+    "issue_name": "Draft hood spillage or backdraft",
+    "issue_type": "Heating",
+    "issue_description": "A considerable amount of rust was noted on the front of the furnace indicating a back-drafting problem.",
+    "issue_summary": "Equipment not operating properly | Hazardous combustion products entering home",
+    "additional_information": "Location: Basement Furnace Room. Task: Correct",
+    "issue_images": "Draft hood spillage or backdraft"
+  },
+  {
+    "report_name": "Report No. 3284, v.6",
+    "issue_name": "Frost on evaporator coil",
+    "issue_type": "Cooling",
+    "issue_description": "Frost detected on the evaporator coil.",
+    "issue_summary": "Increased cooling costs | Reduced comfort",
+    "additional_information": "Location: West Basement. Task: Repair",
+    "issue_images": "Frost on evaporator coil"
+  },
+  {
+    "report_name": "Report No. 3284, v.6",
+    "issue_name": "Exposed combustible insulation",
+    "issue_type": "Insulation",
+    "issue_description": "Exposed combustible insulation found in the crawl space.",
+    "issue_summary": "Fire hazard",
+    "additional_information": "Location: West Crawl Space. Task: Remove or cover with drywall",
+    "issue_images": "Exposed combustible insulation"
+  },
+  {
+    "report_name": "Report No. 3284, v.6",
+    "issue_name": "Leak in water supply piping",
+    "issue_type": "Plumbing",
+    "issue_description": "Leak detected in the water supply piping.",
+    "issue_summary": "Potential water damage",
+    "additional_information": "Location: Northeast Basement. Task: Replace",
+    "issue_images": "Leak in water supply piping"
+  },
+  {
+    "report_name": "Report No. 3284, v.6",
+    "issue_name": "Nonstandard trap shape or material",
+    "issue_type": "Plumbing",
+    "issue_description": "Nonstandard shape or material of traps in the plumbing system.",
+    "issue_summary": "Reduced operability | Fixtures slow to drain",
+    "additional_information": "Location: Basement Laundry Area. Task: Improve",
+    "issue_images": "Nonstandard trap shape or material"
+  },
+  {
+    "report_name": "Report No. 3284, v.6",
+    "issue_name": "Vent termination problems",
+    "issue_type": "Plumbing",
+    "issue_description": "Vent termination problems detected on the roof.",
+    "issue_summary": "Reduced operability | Sewer gases entering the building",
+    "additional_information": "Location: West central part of roof. Task: Remove cap",
+    "issue_images": "Vent termination problems"
+  },
+  {
+    "report_name": "Report No. 3284, v.6",
+    "issue_name": "Stained wood/laminate floors",
+    "issue_type": "Interior",
+    "issue_description": "Stained wood/laminate floors detected.",
+    "issue_summary": "Chance of water damage to structure, finishes and contents",
+    "additional_information": "Location: North First Floor Family Room. Task: Replace",
+    "issue_images": "Stained wood/laminate floors"
+  },
+  {
+    "report_name": "Report No. 3284, v.6",
+    "issue_name": "Extension cord for garage door opener",
+    "issue_type": "Interior",
+    "issue_description": "A dedicated receptacle (outlet) is recommended for the door opener.",
+    "issue_summary": "Electric shock",
+    "additional_information": "Location: Garage. Task: Provide",
+    "issue_images": "Extension cord for garage door opener"
+  }
+]

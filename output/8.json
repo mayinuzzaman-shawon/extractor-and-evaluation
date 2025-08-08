@@ -1,0 +1,343 @@
+[
+  {
+    "report_name": "Sample report, Niagara on the Lake, ON",
+    "issue_name": "Vulnerable to ice damming",
+    "issue_type": "Roofing",
+    "issue_description": "SLOPED ROOFING \\ Asphalt shingles",
+    "issue_summary": "Chance of water damage to contents, finishes and/or structure",
+    "additional_information": "Location: Front First Floor Foyer Attic space. Task: Provide proper ventilation and repair drywall. Time: Immediate. Cost: $XXXX",
+    "issue_images": [
+      "Vulnerable to ice damming"
+    ]
+  },
+  {
+    "report_name": "Sample report, Niagara on the Lake, ON",
+    "issue_name": "Cracked horizontally",
+    "issue_type": "Structure",
+    "issue_description": "FOUNDATIONS \\ Foundation",
+    "issue_summary": "Chance of structural movement",
+    "additional_information": "Location: Right Side Crawl Space Exterior Wall. Task: Replace. Time: Immediate. Cost: $XXXX",
+    "issue_images": [
+      "Cracked horizontally"
+    ]
+  },
+  {
+    "report_name": "Sample report, Niagara on the Lake, ON",
+    "issue_name": "Possible Zonolite",
+    "issue_type": "Insulation and Ventilation",
+    "issue_description": "ATTIC/ROOF \\ Insulation",
+    "issue_summary": "Environmental contamination",
+    "additional_information": "Location: Left Side Attic. Task: Further evaluation and remove if necessary. Time: Immediate. Cost: $XXXX",
+    "issue_images": [
+      "Possible Zonolite"
+    ]
+  },
+  {
+    "report_name": "Sample report, Niagara on the Lake, ON",
+    "issue_name": "Loose, misaligned, missing",
+    "issue_type": "Roofing",
+    "issue_description": "SLOPED ROOF FLASHINGS \\ Hip and ridge flashings",
+    "issue_summary": "Chance of water damage to contents, finishes and/or structure",
+    "additional_information": "Location: Front Right Side Exterior. Task: Replace. Time: Immediate. Cost: $XXXX",
+    "issue_images": [
+      "Loose, misaligned, missing"
+    ]
+  },
+  {
+    "report_name": "Sample report, Niagara on the Lake, ON",
+    "issue_name": "Clogged",
+    "issue_type": "Exterior",
+    "issue_description": "ROOF DRAINAGE \\ Gutters",
+    "issue_summary": "Chance of water damage to contents, finishes and/or structure",
+    "additional_information": "Location: Left Side Exterior. Task: Clean. Time: Immediate. Cost: $XXXX",
+    "issue_images": [
+      "Clogged"
+    ]
+  },
+  {
+    "report_name": "Sample report, Niagara on the Lake, ON",
+    "issue_name": "Improper slope or drainage",
+    "issue_type": "Exterior",
+    "issue_description": "LANDSCAPING \\ Walkway",
+    "issue_summary": "Chance of water damage to contents, finishes and/or structure",
+    "additional_information": "Location: Right Side Exterior. Task: Correct. Time: Immediate. Cost: $XXXX",
+    "issue_images": [
+      "Improper slope or drainage"
+    ]
+  },
+  {
+    "report_name": "Sample report, Niagara on the Lake, ON",
+    "issue_name": "Rotated or twisted beams",
+    "issue_type": "Structure",
+    "issue_description": "FLOORS \\ Beams",
+    "issue_summary": "Weakened structure | Chance of structural movement",
+    "additional_information": "Location: Center Crawl Space. Task: Replace. Time: Less than 1 year. Cost: $XXXX",
+    "issue_images": [
+      "Rotated or twisted beams"
+    ]
+  },
+  {
+    "report_name": "Sample report, Niagara on the Lake, ON",
+    "issue_name": "Fire damage",
+    "issue_type": "Structure",
+    "issue_description": "FLOORS \\ Sheathing",
+    "issue_summary": "Weakened structure | Chance of structural movement",
+    "additional_information": "Location: Attic. Task: Request Disclosure and Replace or protect with FRT paint. Time: Immediate. Cost: $XXXX",
+    "issue_images": [
+      "Fire damage"
+    ]
+  },
+  {
+    "report_name": "Sample report, Niagara on the Lake, ON",
+    "issue_name": "Split",
+    "issue_type": "Structure",
+    "issue_description": "ROOF FRAMING \\ Rafters/trusses",
+    "issue_summary": "Weakened structure | Chance of structural movement",
+    "additional_information": "Location: Attic. Task: Repair. Time: Less than 1 year. Cost: $XXXX",
+    "issue_images": [
+      "Split"
+    ]
+  },
+  {
+    "report_name": "Sample report, Niagara on the Lake, ON",
+    "issue_name": "Rot, insect or fire damage",
+    "issue_type": "Structure",
+    "issue_description": "ROOF FRAMING \\ Sheathing",
+    "issue_summary": "Weakened structure | Chance of structural movement",
+    "additional_information": "Location: Attic. Task: Replace or protect with FRT paint. Time: Immediate. Cost: $XXXX",
+    "issue_images": [
+      "Rot, insect or fire damage"
+    ]
+  },
+  {
+    "report_name": "Sample report, Niagara on the Lake, ON",
+    "issue_name": "Sagging",
+    "issue_type": "Structure",
+    "issue_description": "ROOF FRAMING \\ Sheathing",
+    "issue_summary": "Weakened structure | Chance of structural movement",
+    "additional_information": "Location: Attic. Task: Repair or replace. Time: Immediate. Cost: $XXXX",
+    "issue_images": [
+      "Sagging"
+    ]
+  },
+  {
+    "report_name": "Sample report, Niagara on the Lake, ON",
+    "issue_name": "Rot",
+    "issue_type": "Structure",
+    "issue_description": "ROOF FRAMING \\ Sheathing",
+    "issue_summary": "Weakened structure | Chance of structural movement",
+    "additional_information": "Location: Attic. Task: Replace. Time: When re-roofing. Cost: $XXXX",
+    "issue_images": [
+      "Rot"
+    ]
+  },
+  {
+    "report_name": "Sample report, Niagara on the Lake, ON",
+    "issue_name": "No jumper for meters and valves",
+    "issue_type": "Electrical",
+    "issue_description": "SERVICE BOX, GROUNDING AND PANEL \\ System grounding",
+    "issue_summary": "Electric shock",
+    "additional_information": "Location: Basement Utility Room. Task: Provide. Time: Immediate. Cost: $XXXX",
+    "issue_images": [
+      "No jumper for meters and valves"
+    ]
+  },
+  {
+    "report_name": "Sample report, Niagara on the Lake, ON",
+    "issue_name": "Overheating",
+    "issue_type": "Electrical",
+    "issue_description": "SERVICE BOX, GROUNDING AND PANEL \\ Panel wires",
+    "issue_summary": "Fire hazard",
+    "additional_information": "Location: Basement Utility Room. Task: Correct. Time: Immediate. Cost: $XXXX",
+    "issue_images": [
+      "Overheating"
+    ]
+  },
+  {
+    "report_name": "Sample report, Niagara on the Lake, ON",
+    "issue_name": "Damage",
+    "issue_type": "Electrical",
+    "issue_description": "DISTRIBUTION SYSTEM \\ Wiring - damaged or exposed",
+    "issue_summary": "Electric shock | Fire hazard",
+    "additional_information": "Location: Right Side Crawl Space. Task: Repair or replace. Time: Immediate. Cost: $XXXX",
+    "issue_images": [
+      "Damage"
+    ]
+  },
+  {
+    "report_name": "Sample report, Niagara on the Lake, ON",
+    "issue_name": "Missing, loose",
+    "issue_type": "Electrical",
+    "issue_description": "DISTRIBUTION SYSTEM \\ Junction boxes",
+    "issue_summary": "Electric shock | Fire hazard",
+    "additional_information": "Location: Left Side Crawl Space. Task: Provide. Time: Immediate. Cost: $XXXX",
+    "issue_images": [
+      "Missing, loose"
+    ]
+  },
+  {
+    "report_name": "Sample report, Niagara on the Lake, ON",
+    "issue_name": "Ground Fault Circuit Interrupter (GFCI) needed",
+    "issue_type": "Electrical",
+    "issue_description": "DISTRIBUTION SYSTEM \\ Outlets (receptacles)",
+    "issue_summary": "Electric shock",
+    "additional_information": "Location: Rear Exterior Wall. Task: Upgrade. Time: Immediate. Cost: $XXXX",
+    "issue_images": [
+      "Ground Fault Circuit Interrupter (GFCI) needed"
+    ]
+  },
+  {
+    "report_name": "Sample report, Niagara on the Lake, ON",
+    "issue_name": "Old",
+    "issue_type": "Heating",
+    "issue_description": "GAS FURNACE \\ Life expectancy",
+    "issue_summary": "Equipment failure | No heat for building",
+    "additional_information": "Location: Basement Utility Room. Task: Continue to use as long as possible and Replace When necessary. Cost: $XXXX",
+    "issue_images": [
+      "Old"
+    ]
+  },
+  {
+    "report_name": "Sample report, Niagara on the Lake, ON",
+    "issue_name": "Transite Pipe",
+    "issue_type": "Heating",
+    "issue_description": "GAS FURNACE \\ Ducts, registers and grilles",
+    "issue_summary": "Health hazard",
+    "additional_information": "Location: Throughout Basement. Task: Replace. Time: Immediate. Cost: $XXXX",
+    "issue_images": [
+      "Transite Pipe"
+    ]
+  },
+  {
+    "report_name": "Sample report, Niagara on the Lake, ON",
+    "issue_name": "Disconnected ducts",
+    "issue_type": "Heating",
+    "issue_description": "GAS FURNACE \\ Ducts, registers and grilles",
+    "issue_summary": "Increased heating costs | Reduced comfort",
+    "additional_information": "Location: Basement Laundry Area. Task: Repair. Time: Immediate. Cost: $XXXX",
+    "issue_images": [
+      "Disconnected ducts"
+    ]
+  },
+  {
+    "report_name": "Sample report, Niagara on the Lake, ON",
+    "issue_name": "Rust (in-slab ducts)",
+    "issue_type": "Heating",
+    "issue_description": "GAS FURNACE \\ Ducts, registers and grilles",
+    "issue_summary": "Increased heating costs | Reduced comfort",
+    "additional_information": "Location: Throughout Basement. Task: Replace Upgrade. Time: Immediate. Cost: $XXXX",
+    "issue_images": [
+      "Rust (in-slab ducts)"
+    ]
+  },
+  {
+    "report_name": "Sample report, Niagara on the Lake, ON",
+    "issue_name": "Wrong fuse or breaker size",
+    "issue_type": "Cooling & Heat Pump",
+    "issue_description": "AIR CONDITIONING \\ Compressor",
+    "issue_summary": "Equipment overheating | Damage to equipment | System inoperative or difficult to operate",
+    "additional_information": "Location: Left Side Exterior Wall. Task: Correct. Time: Immediate. Cost: $XXXX",
+    "issue_images": [
+      "Wrong fuse or breaker size"
+    ]
+  },
+  {
+    "report_name": "Sample report, Niagara on the Lake, ON",
+    "issue_name": "Gaps or voids",
+    "issue_type": "Insulation and Ventilation",
+    "issue_description": "ATTIC/ROOF \\ Insulation",
+    "issue_summary": "Increased heating and cooling costs | Reduced comfort",
+    "additional_information": "Location: Attic. Task: Replace. Time: Immediate. Cost: $XXXX",
+    "issue_images": [
+      "Gaps or voids"
+    ]
+  },
+  {
+    "report_name": "Sample report, Niagara on the Lake, ON",
+    "issue_name": "Sagging or voids",
+    "issue_type": "Insulation and Ventilation",
+    "issue_description": "WALLS \\ Insulation",
+    "issue_summary": "Increased heating and cooling costs | Reduced comfort",
+    "additional_information": "Location: Second Floor Master Bedroom. Task: Provide. Time: When remodelling. Cost: $XXXX",
+    "issue_images": [
+      "Sagging or voids"
+    ]
+  },
+  {
+    "report_name": "Sample report, Niagara on the Lake, ON",
+    "issue_name": "No vapor barrier",
+    "issue_type": "Insulation and Ventilation",
+    "issue_description": "FOUNDATION \\ Crawlspace floor",
+    "issue_summary": "Chance of condensation damage to finishes and/or structure",
+    "additional_information": "Location: Throughout Crawl Space. Task: Provide. Time: Immediate. Cost: $XXXX",
+    "issue_images": [
+      "No vapor barrier"
+    ]
+  },
+  {
+    "report_name": "Sample report, Niagara on the Lake, ON",
+    "issue_name": "Leak",
+    "issue_type": "Plumbing",
+    "issue_description": "FIXTURES AND FAUCETS \\ Toilet",
+    "issue_summary": "Chance of water damage to contents, finishes and/or structure",
+    "additional_information": "Location: Second Floor Bathroom. Task: Replace toilet gasket. Time: Immediate. Cost: $XXXX",
+    "issue_images": [
+      "Leak"
+    ]
+  },
+  {
+    "report_name": "Sample report, Niagara on the Lake, ON",
+    "issue_name": "Water damage",
+    "issue_type": "Interior",
+    "issue_description": "WALLS \\ Plaster or drywall",
+    "issue_summary": "Cosmetic defects",
+    "additional_information": "Location: Basement Bathroom. Task: Repair leaking pipe and replace drywall. Time: Immediate. Cost: $XXXX",
+    "issue_images": [
+      "Water damage"
+    ]
+  },
+  {
+    "report_name": "Sample report, Niagara on the Lake, ON",
+    "issue_name": "Water damage",
+    "issue_type": "Interior",
+    "issue_description": "WALLS \\ Plaster or drywall",
+    "issue_summary": "Cosmetic defects",
+    "additional_information": "Location: Basement Bedroom. Task: Repair foundation and Replace drywall. Time: Immediate. Cost: $XXXX",
+    "issue_images": [
+      "Water damage"
+    ]
+  },
+  {
+    "report_name": "Sample report, Niagara on the Lake, ON",
+    "issue_name": "Water damage",
+    "issue_type": "Interior",
+    "issue_description": "CEILINGS \\ General",
+    "issue_summary": "Cosmetic defects | Chance of movement",
+    "additional_information": "Location: First Floor Dining Room. Task: Repair. Time: Immediate. Cost: $XXXX",
+    "issue_images": [
+      "Water damage"
+    ]
+  },
+  {
+    "report_name": "Sample report, Niagara on the Lake, ON",
+    "issue_name": "Honeycombing",
+    "issue_type": "Interior",
+    "issue_description": "BASEMENT \\ Wet basements - vulnerability",
+    "issue_summary": "Chance of water damage to contents, finishes and/or structure",
+    "additional_information": "Location: Rear Basement Utility Room. Task: Repair. Time: Immediate. Cost: XXXX",
+    "issue_images": [
+      "Honeycombing"
+    ]
+  },
+  {
+    "report_name": "Sample report, Niagara on the Lake, ON",
+    "issue_name": "Not vented to exterior",
+    "issue_type": "Interior",
+    "issue_description": "EXHAUST FANS \\ Exhaust duct",
+    "issue_summary": "Chance of condensation damage to finishes and/or structure",
+    "additional_information": "Location: Attic. Task: Correct. Time: Immediate. Cost: XXXX",
+    "issue_images": [
+      "Not vented to exterior"
+    ]
+  }
+]

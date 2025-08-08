@@ -1,0 +1,524 @@
+[
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Cupping, curling, clawing",
+    "issue_type": "Roofing",
+    "issue_description": "Shingles have started to curl, cup and claw. Indicating that they are at the end of their life expectancy they will likely need to be replaced in next 3 years.",
+    "issue_summary": "Chance of water damage to contents, finishes and/or structure",
+    "additional_information": "Location: Throughout, Time: Less than 3 years",
+    "issue_images": "Cupping, curling, clawing"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Replace old and cracked caulking",
+    "issue_type": "Roofing",
+    "issue_description": "Flashing that was installed was done very poorly, at the very least caulking is to be added between wall connection. Flashings throughout home should be replaced when re-shingling.",
+    "issue_summary": "Chance of water damage to contents, finishes and/or structure",
+    "additional_information": "Location: Throughout, Task: Improve, Time: Less than 1 year",
+    "issue_images": "Replace old and cracked caulking"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Discharge below grade",
+    "issue_type": "Roof Drainage",
+    "issue_description": "Downspouts discharge below grade.",
+    "issue_summary": "Chance of water damage to contents, finishes and/or structure",
+    "additional_information": "Location: Front, Task: Improve, Time: Discretionary",
+    "issue_images": "Discharge below grade"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Caulking missing or ineffective",
+    "issue_type": "Walls",
+    "issue_description": "Replace caulking where it is cracked and brittle and provide where it is missing.",
+    "issue_summary": "Chance of water damage to contents, finishes and/or structure",
+    "additional_information": "Location: Various, Task: Replace Provide, Time: Immediate",
+    "issue_images": "Caulking missing or ineffective"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Cracked",
+    "issue_type": "Walls",
+    "issue_description": "Step cracking on bricks in various areas around home. Typically cracks are caused due to minor settlement of home.",
+    "issue_summary": "Chance of water entering building | Weakened structure | Chance of movement",
+    "additional_information": "Location: Various, Task: Repair, Time: When necessary",
+    "issue_images": "Cracked"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Cover damaged",
+    "issue_type": "Walls",
+    "issue_description": "Cover damaged on vents.",
+    "issue_summary": "Increased operating costs",
+    "additional_information": "Location: Various, Task: Replace, Time: Less than 1 year",
+    "issue_images": "Cover damaged"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Lintel sagging",
+    "issue_type": "Exterior Glass/Windows",
+    "issue_description": "It is not possible to tell when this damage occurred whether it was before the window was changed or could be from time of construction.",
+    "issue_summary": "Weakened structure | Chance of structural movement",
+    "additional_information": "Location: Front, Task: Repair & Monitor, Time: Immediate",
+    "issue_images": "Lintel sagging"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Rot",
+    "issue_type": "Exterior Glass/Windows",
+    "issue_description": "Several windows that were original where in poor condition. Rot on frames.",
+    "issue_summary": "Material deterioration",
+    "additional_information": "Location: Various, Task: Repair or replace, Time: Immediate",
+    "issue_images": "Rot"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Damage",
+    "issue_type": "Doors",
+    "issue_description": "Damage to doors and frames.",
+    "issue_summary": "Chance of damage to finishes and structure | Poor security",
+    "additional_information": "Location: Garage, Task: Repair or replace, Time: Less than 1 year",
+    "issue_images": "Damage"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Caulking missing, deteriorated or loose",
+    "issue_type": "Doors",
+    "issue_description": "Open area underneath door.",
+    "issue_summary": "Chance of damage to finishes and structure",
+    "additional_information": "Location: Back of home, Task: Repair, Time: Immediate",
+    "issue_images": "Caulking missing, deteriorated or loose"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Wood/soil contact",
+    "issue_type": "Porches, Decks, Stairs, Patios and Balconies",
+    "issue_description": "Wooden deck structure mounted in ground as opposed to concrete footing. This post is starting to rot and will have to be replaced.",
+    "issue_summary": "Rot | Insect damage",
+    "additional_information": "Location: Back of home, Task: Repair, Time: Less than 1 year",
+    "issue_images": "Wood/soil contact"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Trees or shrubs too close to building",
+    "issue_type": "Landscaping",
+    "issue_description": "Trees or shrubs are too close to the building.",
+    "issue_summary": "Chance of water damage to contents, finishes and/or structure | Chance of pests entering building | Material deterioration",
+    "additional_information": "Location: Front, Task: Remove, Time: Discretionary",
+    "issue_images": "Trees or shrubs too close to building"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Vines on building",
+    "issue_type": "Landscaping",
+    "issue_description": "Vines are growing on the building.",
+    "issue_summary": "Chance of damage to finishes | Chance of pests entering building",
+    "additional_information": "Location: Various, Task: Remove, Time: Immediate",
+    "issue_images": "Vines on building"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Rot",
+    "issue_type": "Landscaping",
+    "issue_description": "Rot on retaining wall.",
+    "issue_summary": "Weakened structure | Material deterioration",
+    "additional_information": "Location: Left side (facing home), Task: Replace, Time: Less than 1 year",
+    "issue_images": "Rot"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Improper slope",
+    "issue_type": "Garage",
+    "issue_description": "Noted garage slab is settled towards middle and there has been an extension added to garage door to have it seal against floor.",
+    "issue_summary": "Loss of proper slope for drainage",
+    "additional_information": "Location: Garage, Task: Monitor, Time: Unpredictable",
+    "issue_images": "Improper slope"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "No self-closer",
+    "issue_type": "Garage",
+    "issue_description": "No self-closer on door into garage.",
+    "issue_summary": "Hazardous combustion products entering home | Increased fire hazard",
+    "additional_information": "Location: Garage, Task: Improve, Time: Immediate",
+    "issue_images": "No self-closer"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Cracked",
+    "issue_type": "Foundations",
+    "issue_description": "Repair by licensed contractor or basement waterproofing company recommended.",
+    "issue_summary": "Chance of water damage to contents, finishes and/or structure | Weakened structure",
+    "additional_information": "Location: Back of home, Task: Repair, Time: Immediate",
+    "issue_images": "Cracked"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Water stains",
+    "issue_type": "Roof Framing",
+    "issue_description": "Small area where there was some water staining around skylight. Area was dry at time of inspection.",
+    "issue_summary": "Material deterioration",
+    "additional_information": "Location: Attic, Task: Monitor then Replace, Time: Unpredictable",
+    "issue_images": "Water stains"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "FPE (Federal Pioneer Electric) - Stablok",
+    "issue_type": "Service Box, Grounding and Panel",
+    "issue_description": "Stablok breakers should be evaluated by Licensed electrician as there are breakers that have been recalled and must be replaced.",
+    "issue_summary": "Immediate evaluation needed",
+    "additional_information": "Location: Basement, Task: Further evaluation, Time: Immediate",
+    "issue_images": "FPE (Federal Pioneer Electric) - Stablok"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Double taps",
+    "issue_type": "Service Box, Grounding and Panel",
+    "issue_description": "Double taps in the electrical panel.",
+    "issue_summary": "Fire hazard",
+    "additional_information": "Location: Basement, Task: Repair, Time: Less than 1 year",
+    "issue_images": "Double taps"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Extension cord for garage door opener",
+    "issue_type": "Distribution System",
+    "issue_description": "Extension cord used for garage door opener.",
+    "issue_summary": "Electric shock",
+    "additional_information": "Location: Garage, Task: Remove, Time: Discretionary",
+    "issue_images": "Extension cord for garage door opener"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Loose",
+    "issue_type": "Distribution System",
+    "issue_description": "Loose outlets (receptacles).",
+    "issue_summary": "Electric shock | Fire hazard",
+    "additional_information": "Location: First Floor Kitchen, Task: Repair, Time: Less than 1 year",
+    "issue_images": "Loose"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "GFCI/GFI needed (Ground Fault Circuit Interrupter)",
+    "issue_type": "Distribution System",
+    "issue_description": "Numerous electrical defects that should be evaluated by licensed electrician.",
+    "issue_summary": "Electric shock",
+    "additional_information": "Location: Basement Kitchen, Task: Repair, Time: Immediate",
+    "issue_images": "GFCI/GFI needed (Ground Fault Circuit Interrupter)"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Inoperative",
+    "issue_type": "Distribution System",
+    "issue_description": "Several lights around the house are not working.",
+    "issue_summary": "Inadequate lighting",
+    "additional_information": "Location: Various, Task: Request demo",
+    "issue_images": "Inoperative"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Inoperative",
+    "issue_type": "Distribution System",
+    "issue_description": "Inoperative smoke alarms (detectors).",
+    "issue_summary": "Fire hazard",
+    "additional_information": "Location: Basement First Floor Second Floor, Task: Replace, Time: Immediate",
+    "issue_images": "Inoperative"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "None observed",
+    "issue_type": "Distribution System",
+    "issue_description": "No carbon monoxide (CO) alarms (detectors) observed.",
+    "issue_summary": "Health hazard",
+    "additional_information": "Location: Basement Second Floor, Task: Provide, Time: Immediate",
+    "issue_images": "None observed"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Inoperative",
+    "issue_type": "Gas Furnace",
+    "issue_description": "Inoperative electronic air cleaner.",
+    "issue_summary": "Equipment ineffective",
+    "additional_information": "Location: Basement, Task: Repair or replace, Time: Immediate",
+    "issue_images": "Inoperative"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "No heat source",
+    "issue_type": "Gas Furnace",
+    "issue_description": "No heat source found in basement bathrooms and basement kitchen area.",
+    "issue_summary": "Reduced comfort",
+    "additional_information": "Location: Basement Bathrooms + Kitchen, Task: Improve, Time: Immediate",
+    "issue_images": "No heat source"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Loose, missing or deteriorated masonry",
+    "issue_type": "Chimney and Vent",
+    "issue_description": "Loose, missing or deteriorated masonry on chimney.",
+    "issue_summary": "Material deterioration",
+    "additional_information": "Location: Left side (facing home), Task: Repair, Time: Less than 1 year",
+    "issue_images": "Loose, missing or deteriorated masonry"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Service air conditioner",
+    "issue_type": "Air Conditioning",
+    "issue_description": "Service air conditioner to ensure proper function.",
+    "issue_summary": "Reduced system life expectancy | Increased cooling costs | Reduced comfort",
+    "additional_information": "Location: Left side (facing home), Task: Service, Time: Regular maintenance",
+    "issue_images": "Service air conditioner"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Near end of life expectancy",
+    "issue_type": "Air Conditioning",
+    "issue_description": "Current A/C unit is 15 years old, near end of life expectancy.",
+    "issue_summary": "Equipment failure | Reduced comfort",
+    "additional_information": "Location: Left side (facing home), Task: Replace, Time: Unpredictable",
+    "issue_images": "Near end of life expectancy"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Insulation - missing",
+    "issue_type": "Air Conditioning",
+    "issue_description": "Insulation around freon line wears away.",
+    "issue_summary": "Reduced system life expectancy | Increased cooling costs | Reduced comfort",
+    "additional_information": "Location: Left side (facing home), Task: Replace, Time: Immediate",
+    "issue_images": "Insulation - missing"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Poor seal at building",
+    "issue_type": "Air Conditioning",
+    "issue_description": "Poor seal at building for air conditioning unit.",
+    "issue_summary": "Chance of water entering building | Chance of pests entering building",
+    "additional_information": "Location: Left side (facing home), Task: Improve, Time: Immediate",
+    "issue_images": "Poor seal at building"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Gaps or voids",
+    "issue_type": "Attic/Roof Insulation",
+    "issue_description": "Evidence of mice tunnels and gaps throughout insulation in attic.",
+    "issue_summary": "Increased heating and cooling costs | Reduced comfort",
+    "additional_information": "Location: Attic, Task: Further evaluation, Time: Discretionary",
+    "issue_images": "Gaps or voids"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Not weatherstripped",
+    "issue_type": "Attic/Roof Hatch/Door",
+    "issue_description": "Attic hatch/door not weatherstripped.",
+    "issue_summary": "Chance of condensation damage to finishes and/or structure | Increased heating and cooling costs",
+    "additional_information": "Location: Attic, Task: Improve, Time: Less than 1 year",
+    "issue_images": "Not weatherstripped"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Poor support",
+    "issue_type": "Supply Plumbing",
+    "issue_description": "Supply lines are not properly secured.",
+    "issue_summary": "Chance of water damage to contents, finishes and/or structure | Leakage",
+    "additional_information": "Location: First Floor Laundry Area, Task: Improve, Time: Immediate",
+    "issue_images": "Poor support"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Poor manifolding of drain pipe",
+    "issue_type": "Waste Plumbing",
+    "issue_description": "Poor manifolding of drain pipe.",
+    "issue_summary": "Sewage entering the building",
+    "additional_information": "Location: First Floor Kitchen, Task: Repair, Time: Less than 1 year",
+    "issue_images": "Poor manifolding of drain pipe"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Poor manifolding of drain pipe",
+    "issue_type": "Waste Plumbing",
+    "issue_description": "Poor manifolding of drain pipe.",
+    "issue_summary": "Sewage entering the building",
+    "additional_information": "Location: Basement, Task: Repair, Time: Less than 1 year",
+    "issue_images": "Poor manifolding of drain pipe"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Hot and cold reversed",
+    "issue_type": "Fixtures and Faucets",
+    "issue_description": "Hot and cold water lines are reversed.",
+    "issue_summary": "Scalding",
+    "additional_information": "Location: Basement Powder Room, Task: Repair, Time: Immediate",
+    "issue_images": "Hot and cold reversed"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Loose",
+    "issue_type": "Fixtures and Faucets",
+    "issue_description": "Loose basin, sink or laundry tub.",
+    "issue_summary": "Chance of water damage to contents, finishes and/or structure | Damage or physical injury due to falling materials | Sewage entering the building",
+    "additional_information": "Location: Basement Powder Room, Task: Repair, Time: Immediate",
+    "issue_images": "Loose"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Surface defects",
+    "issue_type": "Fixtures and Faucets",
+    "issue_description": "Surface defects on basin, sink or laundry tub.",
+    "issue_summary": "Hygiene issue",
+    "additional_information": "Location: First Floor Powder Room, Task: Replace, Time: When necessary",
+    "issue_images": "Surface defects"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Slow drains",
+    "issue_type": "Fixtures and Faucets",
+    "issue_description": "Slow drains in basin, sink or laundry tub.",
+    "issue_summary": "Chance of water damage to contents, finishes and/or structure",
+    "additional_information": "Location: First Floor Powder Room, Task: Clean, Time: When necessary",
+    "issue_images": "Slow drains"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Overflows missing, leak, rust or inappropriate",
+    "issue_type": "Fixtures and Faucets",
+    "issue_description": "Overflows missing, leak, rust or inappropriate.",
+    "issue_summary": "Chance of water damage to contents, finishes and/or structure",
+    "additional_information": "Location: Basement Powder Room, Task: Repair, Time: Immediate",
+    "issue_images": "Overflows missing, leak, rust or inappropriate"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Caulking loose, missing or deteriorated",
+    "issue_type": "Fixtures and Faucets",
+    "issue_description": "Caulking loose, missing or deteriorated in bathtub.",
+    "issue_summary": "Chance of water damage to contents, finishes and/or structure",
+    "additional_information": "Location: Second Floor Hallway Bathroom, Task: Provide, Time: Immediate",
+    "issue_images": "Caulking loose, missing or deteriorated"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Leak",
+    "issue_type": "Fixtures and Faucets",
+    "issue_description": "Water leaked out where arrow was pointed in photo. Likely there is leakage because connection is poorly sealed with silicone and needs to be sealed better to achieve waterproofing.",
+    "issue_summary": "Chance of water damage to contents, finishes and/or structure",
+    "additional_information": "Location: Basement Bathroom, Task: Repair, Time: Immediate",
+    "issue_images": "Leak"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Caulking loose, missing or deteriorated",
+    "issue_type": "Fixtures and Faucets",
+    "issue_description": "Every perpendicular joint needs to be covered with silicone. + Tile threshold joint and around faucets",
+    "issue_summary": "Chance of water damage to contents, finishes and/or structure",
+    "additional_information": "Location: Second Floor Master Bathroom, Task: Provide, Time: Immediate",
+    "issue_images": "Caulking loose, missing or deteriorated"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Noted presence of mice due to droppings",
+    "issue_type": "Interior",
+    "issue_description": "Noted presence of mice due to droppings around the home.",
+    "issue_summary": "Pest infestation",
+    "additional_information": "Location: Basement, Task: Further evaluation, Time: Immediate",
+    "issue_images": "Noted presence of mice due to droppings"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Weatherstripping missing or ineffective",
+    "issue_type": "Doors",
+    "issue_description": "Weatherstripping missing or ineffective on doors.",
+    "issue_summary": "Chance of water entering building | Increased heating and cooling costs | Reduced comfort",
+    "additional_information": "Location: Front, Task: Replace, Time: Less than 1 year",
+    "issue_images": "Weatherstripping missing or ineffective"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Broken",
+    "issue_type": "Doors",
+    "issue_description": "Door locks did not work. Homeowners were using piece of metal to jam door closed.",
+    "issue_summary": "System inoperative or difficult to operate",
+    "additional_information": "Location: First Floor Kitchen, Task: Repair, Time: Discretionary",
+    "issue_images": "Broken"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Water damage",
+    "issue_type": "Carpentry",
+    "issue_description": "Water was leaking from faucet onto cabinet and causing damage to cabinet and wall behind it. Fungal growth noted.",
+    "issue_summary": "Material deterioration",
+    "additional_information": "Location: First Floor Kitchen, Task: Repair or replace, Time: Immediate",
+    "issue_images": "Water damage"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Missing",
+    "issue_type": "Stairs",
+    "issue_description": "Missing handrails and guards.",
+    "issue_summary": "Fall hazard",
+    "additional_information": "Location: Basement, Task: Provide, Time: Immediate",
+    "issue_images": "Missing"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Missing",
+    "issue_type": "Exhaust Fans",
+    "issue_description": "Exhaust fans were supposed to be installed during renovations to meet with current code.",
+    "issue_summary": "Chance of condensation damage to finishes and/or structure",
+    "additional_information": "Location: Second floor Master Bathroom, Hallway Bathroom, Basement Powder Room, Task: Provide, Time: Immediate",
+    "issue_images": "Missing"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Not insulated in unconditioned space",
+    "issue_type": "Exhaust Fans",
+    "issue_description": "Dryer vent routed through garage but is un-insulated.",
+    "issue_summary": "Chance of condensation damage to finishes and/or structure",
+    "additional_information": "Location: Garage, Task: Improve, Time: Less than 1 year",
+    "issue_images": "Not insulated in unconditioned space"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Mold",
+    "issue_type": "Basement",
+    "issue_description": "Water present behind vapour barrier along with wet insulation and fungal growth(likely mold).",
+    "issue_summary": "Chance of water damage to contents, finishes and/or structure | Contaminants may enter building air",
+    "additional_information": "Location: Basement Utility Room, Task: Improve, Time: Immediate",
+    "issue_images": "Mold"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Stains",
+    "issue_type": "Basement",
+    "issue_description": "Stains on baseboards. Note that this is very close to crack that was noted in Structural section.",
+    "issue_summary": "Chance of water damage to contents, finishes and/or structure",
+    "additional_information": "Location: Basement Bathroom, Task: Repair, Time: Less than 1 year",
+    "issue_images": "Stains"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Not vented properly",
+    "issue_type": "Exhaust Fan",
+    "issue_description": "Range hood should be vented to exterior.",
+    "issue_summary": "Improper ventilation",
+    "additional_information": "Location: First Floor Kitchen, Task: Repair, Time: Immediate",
+    "issue_images": "Not vented properly"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Poorly secured",
+    "issue_type": "Dishwasher",
+    "issue_description": "Dishwasher is poorly secured.",
+    "issue_summary": "Improper installation",
+    "additional_information": "Location: First Floor Kitchen, Task: Improve, Time: Less than 1 year",
+    "issue_images": "Poorly secured"
+  },
+  {
+    "report_name": "Power Home Inspection Report No. 1457, v.2",
+    "issue_name": "Rubber lines recommended to be changed to metal braided",
+    "issue_type": "Laundry Facilities",
+    "issue_description": "Rubber lines recommended to be changed to metal braided.",
+    "issue_summary": "Improved durability",
+    "additional_information": "Location: First Floor Laundry Area, Task: Replace, Time: Immediate",
+    "issue_images": "Rubber lines recommended to be changed to metal braided"
+  }
+]

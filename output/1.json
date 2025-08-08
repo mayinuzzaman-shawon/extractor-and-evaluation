@@ -1,0 +1,65 @@
+[
+  {
+    "report_name": "HOME INSPECTION REPORT",
+    "issue_name": "Knob and tube electrical wiring",
+    "issue_type": "Electrical",
+    "issue_description": "Knob and tube electrical wiring present in the house.",
+    "issue_summary": "Knob and tube electrical wiring needs remediation.",
+    "additional_information": "Budget $8,000+; Time frame 0-1 year",
+    "issue_images": "Knob and tube electrical wiring"
+  },
+  {
+    "report_name": "HOME INSPECTION REPORT",
+    "issue_name": "Miscellaneous interior repairs",
+    "issue_type": "Interior",
+    "issue_description": "Various interior repairs needed.",
+    "issue_summary": "Interior repairs required.",
+    "additional_information": "Budget $2,000+; Time frame 0-2 years",
+    "issue_images": "Miscellaneous interior repairs"
+  },
+  {
+    "report_name": "HOME INSPECTION REPORT",
+    "issue_name": "Miscellaneous exterior repairs",
+    "issue_type": "Exterior",
+    "issue_description": "Various exterior repairs needed.",
+    "issue_summary": "Exterior repairs required.",
+    "additional_information": "Budget $2,000+; Time frame 0-2 years",
+    "issue_images": "Miscellaneous exterior repairs"
+  },
+  {
+    "report_name": "HOME INSPECTION REPORT",
+    "issue_name": "Gutters & downpipes",
+    "issue_type": "Roof Drainage",
+    "issue_description": "Gutters and downpipes are approaching end of functional life.",
+    "issue_summary": "Replacement/installation of gutters and downpipes recommended.",
+    "additional_information": "Caulking at leaky joints required.",
+    "issue_images": "Gutters & downpipes"
+  },
+  {
+    "report_name": "HOME INSPECTION REPORT",
+    "issue_name": "Roof covering replacement",
+    "issue_type": "Roofing",
+    "issue_description": "High probability of replacement of roof coverings within years.",
+    "issue_summary": "Roof covering replacement is required.",
+    "additional_information": "Current repair is required soon.",
+    "issue_images": "Roof covering replacement"
+  },
+  {
+    "report_name": "HOME INSPECTION REPORT",
+    "issue_name": "Foundation leaks",
+    "issue_type": "Foundation",
+    "issue_description": "Exterior conditions observed which can contribute to basement leaks.",
+    "issue_summary": "Preventative maintenance can greatly reduce the likelihood of rain water leaking through foundation.",
+    "additional_information": "Probability of foundation leaks is high if not remediated.",
+    "issue_images": "Foundation leaks"
+  },
+  {
+    "report_name": "HOME INSPECTION REPORT",
+    "issue_name": "Basement moisture and humidity",
+    "issue_type": "Basement",
+    "issue_description": "High humidity and moisture levels in basement.",
+    "issue_summary": "Basement moisture and humidity control required.",
+    "additional_information": "Recommendations provided to reduce high humidity and dampness levels.",
+    "issue_images": "Basement moisture and humidity"
+  }
+]

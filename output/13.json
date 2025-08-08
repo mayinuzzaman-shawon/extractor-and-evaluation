@@ -1,0 +1,101 @@
+[
+  {
+    "report_name": "HOME INSPECTION REPORT",
+    "issue_name": "Staining and possible mildew or mold formation in attic",
+    "issue_type": "MAINTENANCE ISSUE",
+    "issue_description": "Inspection of attic revealed some staining and possible mildew or mold formation on the roof sheathing in particular above the main floor bathroom and at the western section of the attic.",
+    "issue_summary": "Staining and microbial growth occurs for two reasons: a roof leak or condensation.",
+    "additional_information": "At this time, the staining has not yet lead to any structural damage. It is recommended to improve venting by adding baffles to the soffit areas and also by ensuring the bathroom vent line exhausts to the exterior.",
+    "issue_images": "Staining and possible mildew or mold formation in attic"
+  },
+  {
+    "report_name": "HOME INSPECTION REPORT",
+    "issue_name": "Front entry dead bolt not operational",
+    "issue_type": "MAINTENANCE ISSUE",
+    "issue_description": "The strike to the front entry dead bolt is not properly aligned and dead bolt is currently not operational.",
+    "issue_summary": "Adjust strike as needed to correct.",
+    "additional_information": null,
+    "issue_images": "Front entry dead bolt not operational"
+  },
+  {
+    "report_name": "HOME INSPECTION REPORT",
+    "issue_name": "Cracks in stucco",
+    "issue_type": "MAINTENANCE ISSUE",
+    "issue_description": "Patch / repair / seal all holes / openings, cracks wider than 1mm in stucco to help prevent moisture, insect, or vermin penetration.",
+    "issue_summary": "For instance: Keep all exposed wood surfaces, including facia, soffits, gable ends, well-painted to protect against weathering and deterioration.",
+    "additional_information": null,
+    "issue_images": "Cracks in stucco"
+  },
+  {
+    "report_name": "HOME INSPECTION REPORT",
+    "issue_name": "Concrete stairs to front entry lack hand rail",
+    "issue_type": "SAFETY ISSUE",
+    "issue_description": "The concrete stairs to the front entry need to have a hand rail installed for safety and convenience.",
+    "issue_summary": "Any hairline cracks in concrete are usually due to shrinkage during the curing process of the concrete.",
+    "additional_information": "Bigger cracks may be due to some settling and they should be patched and sealed if cracks become more than 3 mm wide to help prevent further deterioration due to moisture and freeze / thaw cycles.",
+    "issue_images": "Concrete stairs to front entry lack hand rail"
+  },
+  {
+    "report_name": "HOME INSPECTION REPORT",
+    "issue_name": "Wobbly sun deck hand rail",
+    "issue_type": "SAFETY ISSUE",
+    "issue_description": "The hand rail to the sun deck is wobbly and lacks integrity.",
+    "issue_summary": "Replace hand rail with spindled hand rail for safety and convenience and to protect children from falling off the stairs sideways.",
+    "additional_information": null,
+    "issue_images": "Wobbly sun deck hand rail"
+  },
+  {
+    "report_name": "HOME INSPECTION REPORT",
+    "issue_name": "Exterior electrical outlets not GFCI protected",
+    "issue_type": "SAFETY ISSUE",
+    "issue_description": "One or more exterior electrical outlets were found to be not ground fault circuit interrupter (GFCI) protected at the time of inspection.",
+    "issue_summary": "Although GFCI protection may not have been required at the time the home was built, for safety reasons and according to current electrical standards, it is recommended that all exterior electrical receptacles be provided with GFCI protection in good working order to avoid potential electrocution hazards.",
+    "additional_information": "This can be achieved relatively inexpensively by: 1. Replacing an individual standard receptacle with a GFCI receptacle. 2. Replacing the electrical circuit receptacle located closest to the overcurrent protection device (usually a breaker) with a GFCI receptacle. 3. Replacing the breaker currently protecting the electrical circuit that contains the receptacles of concern with a GFCI breaker.",
+    "issue_images": "Exterior electrical outlets not GFCI protected"
+  },
+  {
+    "report_name": "HOME INSPECTION REPORT",
+    "issue_name": "Signs of overheating in electrical panel",
+    "issue_type": "SAFETY ISSUE",
+    "issue_description": "Signs of overheating was noted at a wire near the neutral bar within the main electrical panel, with blackening, melting of wire apparent.",
+    "issue_summary": "This is a safety issue and a potential fire hazard.",
+    "additional_information": "It is recommended to have the issue assessed and corrected by a licensed electrician as soon as possible.",
+    "issue_images": "Signs of overheating in electrical panel"
+  },
+  {
+    "report_name": "HOME INSPECTION REPORT",
+    "issue_name": "Transformer inside main electrical panel",
+    "issue_type": "SAFETY ISSUE",
+    "issue_description": "A transformer was found inside the main electrical panel.",
+    "issue_summary": "This is poor practice.",
+    "additional_information": "Transformers should be installed outside the electrical panel as per electrical regulations. Correct as needed by a licensed electrician.",
+    "issue_images": "Transformer inside main electrical panel"
+  },
+  {
+    "report_name": "HOME INSPECTION REPORT",
+    "issue_name": "Leaking toilet isolation valve",
+    "issue_type": "HEALTH ISSUE",
+    "issue_description": "The toilet isolation valve is leaking steadily. Water has been getting under the floor and is leaking into the basement.",
+    "issue_summary": "Signs of moisture were observed at the exterior wall near this bathroom and it is suspected that water due to the leaky toilet valve is finding its way into the wall.",
+    "additional_information": "It is recommended to repair or replace the leaky toilet valve as soon as possible to stop the water leak. Affected areas should be allowed to dry out. Wall should be opened up and assessed for water damage and microbial growth (potential health issue). Remedy as needed and allow wall interior and structure to dry out before re-finishing.",
+    "issue_images": "Leaking toilet isolation valve"
+  },
+  {
+    "report_name": "HOME INSPECTION REPORT",
+    "issue_name": "Wobbly guard rail between living room and stairway",
+    "issue_type": "SAFETY ISSUE",
+    "issue_description": "The guard rail / pony wall between the living room and the stairway shows movement and lacks integrity.",
+    "issue_summary": "Make repairs as needed.",
+    "additional_information": null,
+    "issue_images": "Wobbly guard rail between living room and stairway"
+  },
+  {
+    "report_name": "HOME INSPECTION REPORT",
+    "issue_name": "Missing hand rail on stairway from entry level to main floor",
+    "issue_type": "SAFETY ISSUE",
+    "issue_description": "The stairway from entry level to main floor is missing a hand rail.",
+    "issue_summary": "Install for safety and convenience.",
+    "additional_information": null,
+    "issue_images": "Missing hand rail on stairway from entry level to main floor"
+  }
+]

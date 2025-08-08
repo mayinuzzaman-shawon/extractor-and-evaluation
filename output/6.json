@@ -1,0 +1,218 @@
+[
+  {
+    "report_name": "Home Inspection Report",
+    "issue_name": "Driveway Condition",
+    "issue_type": "Safety Concern",
+    "issue_description": "Possible trip hazard due to settlement and common cracking.",
+    "issue_summary": "Suggest repair/replacement as needed to ensure safety.",
+    "additional_information": "Common cracks noted.",
+    "issue_images": "Driveway Condition"
+  },
+  {
+    "report_name": "Home Inspection Report",
+    "issue_name": "Window/Frame Conditions",
+    "issue_type": "Structural Concern",
+    "issue_description": "Deterioration of wooden frames and fog/condensation in Thermopane windows indicating a failed seal.",
+    "issue_summary": "Recommending review for repair or replacement as necessary.",
+    "additional_information": "Windows/frames are near the end of their useful life due to age and condensation.",
+    "issue_images": "Window/Frame Conditions"
+  },
+  {
+    "report_name": "Home Inspection Report",
+    "issue_name": "Exterior Door Conditions",
+    "issue_type": "Maintenance Issue",
+    "issue_description": "Peeling paint and worn out caulking observed.",
+    "issue_summary": "Suggest scraping and painting as necessary.",
+    "additional_information": "Wire mesh damage noted.",
+    "issue_images": "Exterior Door Conditions"
+  },
+  {
+    "report_name": "Home Inspection Report",
+    "issue_name": "Gutter Condition",
+    "issue_type": "Maintenance Issue",
+    "issue_description": "Loose at several areas.",
+    "issue_summary": "Suggest securing as necessary.",
+    "additional_information": null,
+    "issue_images": "Gutter Condition"
+  },
+  {
+    "report_name": "Home Inspection Report",
+    "issue_name": "Exterior Faucet Conditions",
+    "issue_type": "Safety Concern",
+    "issue_description": "Longer copper pipe noted, could freeze and burst in winter if not winterized.",
+    "issue_summary": "Recommending repair.",
+    "additional_information": null,
+    "issue_images": "Exterior Faucet Conditions"
+  },
+  {
+    "report_name": "Home Inspection Report",
+    "issue_name": "Deck Condition",
+    "issue_type": "Safety Concern",
+    "issue_description": "Deck railing is non-compliant as it offers 'climbing bars'.",
+    "issue_summary": "Recommending replacement by railing with vertical spacing not exceeding 4\".",
+    "additional_information": "The support posts are not in ground or properly sitting in the footing. Foundation for the deck is tilted causing the structure to lean.",
+    "issue_images": "Deck Condition"
+  },
+  {
+    "report_name": "Home Inspection Report",
+    "issue_name": "Stair Condition",
+    "issue_type": "Safety Concern",
+    "issue_description": "Recommending review by a qualified professional for repair or replacement as necessary.",
+    "issue_summary": null,
+    "additional_information": "The step is too high.",
+    "issue_images": "Stair Condition"
+  },
+  {
+    "report_name": "Home Inspection Report",
+    "issue_name": "Roof Comments",
+    "issue_type": "Maintenance Issue",
+    "issue_description": "Recommending consultation with qualified contractor for replacement quotations in order to budget.",
+    "issue_summary": null,
+    "additional_information": null,
+    "issue_images": "Roof Comments"
+  },
+  {
+    "report_name": "Home Inspection Report",
+    "issue_name": "Garage Door Condition",
+    "issue_type": "Structural Concern",
+    "issue_description": "Bottom door panel is water damaged/deteriorated.",
+    "issue_summary": "Recommending review for repair or replacement as necessary.",
+    "additional_information": "Damage noted.",
+    "issue_images": "Garage Door Condition"
+  },
+  {
+    "report_name": "Home Inspection Report",
+    "issue_name": "Garage Door Opener Condition",
+    "issue_type": "Maintenance Issue",
+    "issue_description": "Chain needs to be tightened.",
+    "issue_summary": "Recommend review for repair or replacement as necessary.",
+    "additional_information": null,
+    "issue_images": "Garage Door Opener Condition"
+  },
+  {
+    "report_name": "Home Inspection Report",
+    "issue_name": "Garage Ceiling Condition",
+    "issue_type": "Structural Concern",
+    "issue_description": "Evidence of past water penetration observed.",
+    "issue_summary": "Recommend review for repair or replacement as necessary.",
+    "additional_information": null,
+    "issue_images": "Garage Ceiling Condition"
+  },
+  {
+    "report_name": "Home Inspection Report",
+    "issue_name": "Basement Window Condition",
+    "issue_type": "Efficiency Concern",
+    "issue_description": "Original windows noted, these windows do not meet modern standards.",
+    "issue_summary": "Upgrade would greatly enhance overall comfort and efficiency.",
+    "additional_information": null,
+    "issue_images": "Basement Window Condition"
+  },
+  {
+    "report_name": "Home Inspection Report",
+    "issue_name": "Waste Line Condition",
+    "issue_type": "Maintenance Issue",
+    "issue_description": "Minor corrosion observed, no leaks visible at time of inspection.",
+    "issue_summary": null,
+    "additional_information": null,
+    "issue_images": "Waste Line Condition"
+  },
+  {
+    "report_name": "Home Inspection Report",
+    "issue_name": "Main Panel Comments",
+    "issue_type": "Safety Concern",
+    "issue_description": "AFCI protection in bedroom branch circuits is a new requirement, not present in this house.",
+    "issue_summary": "Recommending adding as safety enhancement feature.",
+    "additional_information": "Double tapping observed. Burned or scorched wiring observed, recommend review by a licensed electrician.",
+    "issue_images": "Main Panel Comments"
+  },
+  {
+    "report_name": "Home Inspection Report",
+    "issue_name": "Distribution Ducting Condition",
+    "issue_type": "Efficiency Concern",
+    "issue_description": "Suggest sealing all openings with aluminum tape.",
+    "issue_summary": null,
+    "additional_information": null,
+    "issue_images": "Distribution Ducting Condition"
+  },
+  {
+    "report_name": "Home Inspection Report",
+    "issue_name": "Air Conditioning Comments",
+    "issue_type": "Efficiency Concern",
+    "issue_description": "The condenser is tilted, excessive uneven settlement can cause fractures in refrigerant line fittings and loss of refrigerant.",
+    "issue_summary": "Unit should be leveled.",
+    "additional_information": "Air conditioning unit was tested and is NOT in the working condition due no cold air, as per inspectors opinion the air conditioner is near the end of its useful life due to age. Replacement is necessary. Client is advised to budget.",
+    "issue_images": "Air Conditioning Comments"
+  },
+  {
+    "report_name": "Home Inspection Report",
+    "issue_name": "Temperature Pressure Release Valve Conditions",
+    "issue_type": "Safety Concern",
+    "issue_description": "The TPR valve is missing.",
+    "issue_summary": "Suggest installing required temperature pressure relief valve as a safety measure prior to closing.",
+    "additional_information": null,
+    "issue_images": "Temperature Pressure Release Valve Conditions"
+  },
+  {
+    "report_name": "Home Inspection Report",
+    "issue_name": "Dishwasher Condition",
+    "issue_type": "Efficiency Concern",
+    "issue_description": "Working condition at the time of inspection but due to age, and noisy motor it is end of its life.",
+    "issue_summary": null,
+    "additional_information": null,
+    "issue_images": "Dishwasher Condition"
+  },
+  {
+    "report_name": "Home Inspection Report",
+    "issue_name": "Hood Fan Condition",
+    "issue_type": "Maintenance Issue",
+    "issue_description": "Recommend changing filter due it is touching the fan.",
+    "issue_summary": null,
+    "additional_information": null,
+    "issue_images": "Hood Fan Condition"
+  },
+  {
+    "report_name": "Home Inspection Report",
+    "issue_name": "Bath Floor Conditions",
+    "issue_type": "Structural Concern",
+    "issue_description": "Cracked / Chipped tiles noted.",
+    "issue_summary": "Recommend review by a qualified professional for repair or replacement, as necessary, prior to close.",
+    "additional_information": "In the inspectors opinion the floor is near the end of its useful life due to grout damage or lose tiles near toilet and entrance areas.",
+    "issue_images": "Bath Floor Conditions"
+  },
+  {
+    "report_name": "Home Inspection Report",
+    "issue_name": "Sink Condition",
+    "issue_type": "Maintenance Issue",
+    "issue_description": "Drain stopper is inoperable. Sink needs to be changed due condition. Sink drains very slow, needs repair.",
+    "issue_summary": null,
+    "additional_information": "Sink appears to have been refinished, suggest taking care when cleaning to protect the surface.",
+    "issue_images": "Sink Condition"
+  },
+  {
+    "report_name": "Home Inspection Report",
+    "issue_name": "Toilet Condition",
+    "issue_type": "Structural Concern",
+    "issue_description": "A loose toilet and/or loose/soft sub-flooring was observed.",
+    "issue_summary": "Client is advised to seek further review by a licensed plumbing contractor prior to closing for repairs/replacement as required.",
+    "additional_information": "This can indicate damage to the sub-flooring beneath the fixture and floor covering.",
+    "issue_images": "Toilet Condition"
+  },
+  {
+    "report_name": "Home Inspection Report",
+    "issue_name": "Ceiling Conditions",
+    "issue_type": "Structural Concern",
+    "issue_description": "Evidence of past water penetration observed.",
+    "issue_summary": "Recommend review for repair or replacement as necessary.",
+    "additional_information": "Patching observed.",
+    "issue_images": "Ceiling Conditions"
+  },
+  {
+    "report_name": "Home Inspection Report",
+    "issue_name": "Fireplace Comments",
+    "issue_type": "Safety Concern",
+    "issue_description": "A wood burning fireplace is noted in this home.",
+    "issue_summary": "It is strongly suggested that this fireplace be cleaned and inspected before close.",
+    "additional_information": "Please be advised that this item may only be lawfully inspected by a WETT-certified contractor and then, only after a thorough cleaning.",
+    "issue_images": "Fireplace Comments"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "report_name": "Inspection Report No. 1273, v.5",
+    "issue_name": "Combustion fan is noisy",
+    "issue_type": "Heating",
+    "issue_description": "Combustion fan is noisy, which sometimes indicates end-of-life of the fan.",
+    "issue_summary": "Bearing in the combustion fan may be failing",
+    "additional_information": "Location: Furnace Room, Task: Service the furnace, Time: Immediate, Cost: Minor",
+    "issue_images": "Combustion fan is noisy"
+  },
+  {
+    "report_name": "Inspection Report No. 1273, v.5",
+    "issue_name": "Rust on heat shield",
+    "issue_type": "Heating",
+    "issue_description": "Rust",
+    "issue_summary": "Rust on heat shield",
+    "additional_information": "Location: Furnace Room, Task: Service, Time: Immediate, Cost: Minor",
+    "issue_images": "Rust on heat shield"
+  },
+  {
+    "report_name": "Inspection Report No. 1273, v.5",
+    "issue_name": "Condensate leaking inside cabinet",
+    "issue_type": "Heating",
+    "issue_description": "Condensate leaking inside cabinet",
+    "issue_summary": "Condensate drain plugged.",
+    "additional_information": "Location: Furnace Room, Task: Service, Time: Immediate, Cost: Minor",
+    "issue_images": "Condensate leaking inside cabinet"
+  },
+  {
+    "report_name": "Inspection Report No. 1273, v.5",
+    "issue_name": "Humidifier Leak",
+    "issue_type": "Heating",
+    "issue_description": "Leak",
+    "issue_summary": "Chance of water damage to contents, finishes and/or structure | Damage to equipment",
+    "additional_information": "Location: Furnace Room, Task: Service, Time: Immediate, Cost: Minor",
+    "issue_images": "Humidifier Leak"
+  },
+  {
+    "report_name": "Inspection Report No. 1273, v.5",
+    "issue_name": "Deterioration of parging layer",
+    "issue_type": "Exterior",
+    "issue_description": "Aluminum downspouts and deterioration of parging layer in certain areas.",
+    "issue_summary": "Deterioration of parging layer",
+    "additional_information": "Minor repointing needed.",
+    "issue_images": "Deterioration of parging layer"
+  },
+  {
+    "report_name": "Inspection Report No. 1273, v.5",
+    "issue_name": "Spindle not attached at bottom right handrail",
+    "issue_type": "Exterior",
+    "issue_description": "Spindle not attached at bottom right handrail",
+    "issue_summary": "Spindle not attached at bottom right handrail",
+    "additional_information": "Needs screwing on.",
+    "issue_images": "Spindle not attached at bottom right handrail"
+  },
+  {
+    "report_name": "Inspection Report No. 1273, v.5",
+    "issue_name": "Horizontal cracking at porch deck",
+    "issue_type": "Exterior",
+    "issue_description": "Some horizontal cracking seen at each end of porch deck, as well as neighbouring porch.",
+    "issue_summary": "Horizontal cracking at porch deck",
+    "additional_information": "Needs repair.",
+    "issue_images": "Horizontal cracking at porch deck"
+  },
+  {
+    "report_name": "Inspection Report No. 1273, v.5",
+    "issue_name": "Minor dent in top of garage door",
+    "issue_type": "Exterior",
+    "issue_description": "Minor dent in top of garage door noted.",
+    "issue_summary": "Minor dent in top of garage door",
+    "additional_information": "Safety features of automatic door opener tested and are functional.",
+    "issue_images": "Minor dent in top of garage door"
+  }
+]

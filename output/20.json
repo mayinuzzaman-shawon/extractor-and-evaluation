@@ -1,0 +1,299 @@
+[
+  {
+    "report_name": "Report No. 1786, v.3",
+    "issue_name": "Inoperative Electric Radiant Driveway Heating",
+    "issue_type": "Heating",
+    "issue_description": "The electric radiant driveway heating system was shut off, or inoperative at the time of inspection.",
+    "issue_summary": "Inoperative",
+    "additional_information": "It is advisable to request a demo of the system operation and performance before closing.",
+    "issue_images": "Inoperative Electric Radiant Driveway Heating"
+  },
+  {
+    "report_name": "Report No. 1786, v.3",
+    "issue_name": "Inoperative Hot Water Radiant Floor Heating",
+    "issue_type": "Heating",
+    "issue_description": "The hot water radiant floor heating system was shut off, or inoperative, at the time of inspection.",
+    "issue_summary": "Inoperative",
+    "additional_information": "It is advisable to request a demo of the system operation and performance before closing.",
+    "issue_images": "Inoperative Hot Water Radiant Floor Heating"
+  },
+  {
+    "report_name": "Report No. 1786, v.3",
+    "issue_name": "Lost Seal on Double or Triple Glazing",
+    "issue_type": "Interior",
+    "issue_description": "Lost seal on double or triple glazing.",
+    "issue_summary": "Lost seal on double or triple glazing",
+    "additional_information": "Implication(s): Increased heat loss, excessive condensation, nuisance",
+    "issue_images": "Lost Seal on Double or Triple Glazing"
+  },
+  {
+    "report_name": "Report No. 1786, v.3",
+    "issue_name": "Cricket (Saddle) Missing",
+    "issue_type": "Roofing",
+    "issue_description": "There was no cricket observed at the chimney.",
+    "issue_summary": "Cricket (Saddle) missing, loose, damaged",
+    "additional_information": "Implication(s): Chance of water damage to structure, finishes and contents",
+    "issue_images": "Cricket (Saddle) Missing"
+  },
+  {
+    "report_name": "Report No. 1786, v.3",
+    "issue_name": "Missing Flashing",
+    "issue_type": "Roofing",
+    "issue_description": "Flat roof flashing missing or too short.",
+    "issue_summary": "Missing, too short",
+    "additional_information": "Implication(s): Chance of water damage to structure, finishes and contents",
+    "issue_images": "Missing Flashing"
+  },
+  {
+    "report_name": "Report No. 1786, v.3",
+    "issue_name": "Gutter Leak",
+    "issue_type": "Exterior",
+    "issue_description": "There was no downspout on the small gutter, which caused water pooling, leaking and overflowing.",
+    "issue_summary": "Leak",
+    "additional_information": "Implication(s): Chance of water damage to structure, finishes and contents",
+    "issue_images": "Gutter Leak"
+  },
+  {
+    "report_name": "Report No. 1786, v.3",
+    "issue_name": "Downspout Discharge Too Close",
+    "issue_type": "Exterior",
+    "issue_description": "Downspouts should discharge 6' from the building.",
+    "issue_summary": "Discharge too close to building",
+    "additional_information": "Implication(s): Chance of water damage to structure, finishes and contents",
+    "issue_images": "Downspout Discharge Too Close"
+  },
+  {
+    "report_name": "Report No. 1786, v.3",
+    "issue_name": "EIFS Mechanical Damage",
+    "issue_type": "Exterior",
+    "issue_description": "Mechanical damage to EIFS.",
+    "issue_summary": "Mechanical damage",
+    "additional_information": "Implication(s): Chance of water damage to structure, finishes and contents | Material deterioration",
+    "issue_images": "EIFS Mechanical Damage"
+  },
+  {
+    "report_name": "Report No. 1786, v.3",
+    "issue_name": "Mortar Deterioration",
+    "issue_type": "Exterior",
+    "issue_description": "Mortar deterioration on masonry.",
+    "issue_summary": "Mortar deterioration",
+    "additional_information": "Implication(s): Chance of water entering building | Weakened structure | Chance of structural movement",
+    "issue_images": "Mortar Deterioration"
+  },
+  {
+    "report_name": "Report No. 1786, v.3",
+    "issue_name": "Patio Slope Toward Building",
+    "issue_type": "Exterior",
+    "issue_description": "The balcony floor was sloping towards the wall.",
+    "issue_summary": "Slope toward building",
+    "additional_information": "Implication(s): Chance of water damage to structure, finishes and contents",
+    "issue_images": "Patio Slope Toward Building"
+  },
+  {
+    "report_name": "Report No. 1786, v.3",
+    "issue_name": "Improper Lot Slope or Drainage",
+    "issue_type": "Landscaping",
+    "issue_description": "Improper slope or drainage.",
+    "issue_summary": "Improper slope or drainage",
+    "additional_information": "Implication(s): Chance of water damage to structure, finishes and contents",
+    "issue_images": "Improper Lot Slope or Drainage"
+  },
+  {
+    "report_name": "Report No. 1786, v.3",
+    "issue_name": "Uneven Driveway",
+    "issue_type": "Landscaping",
+    "issue_description": "Uneven driveway causing trip hazard.",
+    "issue_summary": "Uneven (trip hazard)",
+    "additional_information": "Implication(s): Physical injury",
+    "issue_images": "Uneven Driveway"
+  },
+  {
+    "report_name": "Report No. 1786, v.3",
+    "issue_name": "Photoelectric Sensor Too High",
+    "issue_type": "Garage",
+    "issue_description": "Photoelectric sensor more than 6 inches above the floor.",
+    "issue_summary": "Photoelectric sensor more than 6 inches above the floor",
+    "additional_information": "Implication(s): Physical injury",
+    "issue_images": "Photoelectric Sensor Too High"
+  },
+  {
+    "report_name": "Report No. 1786, v.3",
+    "issue_name": "Foundation Crack",
+    "issue_type": "Structure",
+    "issue_description": "Vertical crack observed on the foundation wall.",
+    "issue_summary": "Cracked",
+    "additional_information": "Implication(s): Chance of water damage to structure, finishes and contents | Weakened structure",
+    "issue_images": "Foundation Crack"
+  },
+  {
+    "report_name": "Report No. 1786, v.3",
+    "issue_name": "Open Electrical Splices",
+    "issue_type": "Electrical",
+    "issue_description": "Open splices in wiring.",
+    "issue_summary": "Open splices",
+    "additional_information": "Implication(s): Fire hazard | Electric shock",
+    "issue_images": "Open Electrical Splices"
+  },
+  {
+    "report_name": "Report No. 1786, v.3",
+    "issue_name": "GFCI Circuit Issue",
+    "issue_type": "Electrical",
+    "issue_description": "GFCI is on the same circuit with bathroom lights.",
+    "issue_summary": "GFCI is on the same circuit with bathroom lights",
+    "additional_information": "Potential health and safety hazard due to sudden GFCI tripping.",
+    "issue_images": "GFCI Circuit Issue"
+  },
+  {
+    "report_name": "Report No. 1786, v.3",
+    "issue_name": "Inoperative Light",
+    "issue_type": "Electrical",
+    "issue_description": "Inoperative light in Basement Sauna.",
+    "issue_summary": "Inoperative",
+    "additional_information": "Implication(s): Inadequate lighting",
+    "issue_images": "Inoperative Light"
+  },
+  {
+    "report_name": "Report No. 1786, v.3",
+    "issue_name": "Combustion Exhaust Fan Noisy",
+    "issue_type": "Heating",
+    "issue_description": "Combustion exhaust fan noisy.",
+    "issue_summary": "Combustion exhaust fan noisy",
+    "additional_information": "Location: Basement Utility Room",
+    "issue_images": "Combustion Exhaust Fan Noisy"
+  },
+  {
+    "report_name": "Report No. 1786, v.3",
+    "issue_name": "ABS Plastic in Venting System",
+    "issue_type": "Heating",
+    "issue_description": "ABS plastic used for the combustion exhaust system.",
+    "issue_summary": "ABS plastic used for the combustion exhaust system",
+    "additional_information": "Contact a licensed gas contractor/local gas utility for further evaluation and replacement with PVC pipes.",
+    "issue_images": "ABS Plastic in Venting System"
+  },
+  {
+    "report_name": "Report No. 1786, v.3",
+    "issue_name": "Cracked Chimney Cap",
+    "issue_type": "Heating",
+    "issue_description": "Cracked masonry chimney cap.",
+    "issue_summary": "Cracked",
+    "additional_information": "Implication(s): Shortened life expectancy of material | Chance of water damage to structure, finishes and contents",
+    "issue_images": "Cracked Chimney Cap"
+  },
+  {
+    "report_name": "Report No. 1786, v.3",
+    "issue_name": "AC Condensate Pan Leaking",
+    "issue_type": "Cooling",
+    "issue_description": "Pan leaking in AC condensate system.",
+    "issue_summary": "Pan leaking",
+    "additional_information": "Implication(s): Damage to equipment | Chance of water damage to structure, finishes and contents",
+    "issue_images": "AC Condensate Pan Leaking"
+  },
+  {
+    "report_name": "Report No. 1786, v.3",
+    "issue_name": "Attic Insulation Gaps",
+    "issue_type": "Insulation",
+    "issue_description": "Gaps or voids in attic insulation.",
+    "issue_summary": "Gaps or voids",
+    "additional_information": "Implication(s): Increased heating and cooling costs | Reduced comfort",
+    "issue_images": "Attic Insulation Gaps"
+  },
+  {
+    "report_name": "Report No. 1786, v.3",
+    "issue_name": "Turbine Vent Seized",
+    "issue_type": "Insulation",
+    "issue_description": "Turbine vent seized on the roof.",
+    "issue_summary": "Turbine vent seized",
+    "additional_information": "Implication(s): Equipment inoperative",
+    "issue_images": "Turbine Vent Seized"
+  },
+  {
+    "report_name": "Report No. 1786, v.3",
+    "issue_name": "Poor Floor Drain Location",
+    "issue_type": "Plumbing",
+    "issue_description": "Floor drain should be flush with the floor level.",
+    "issue_summary": "Poor location",
+    "additional_information": "Implication(s): Chance of water damage to structure, finishes and contents",
+    "issue_images": "Poor Floor Drain Location"
+  },
+  {
+    "report_name": "Report No. 1786, v.3",
+    "issue_name": "Sump Pump Short Cycling",
+    "issue_type": "Plumbing",
+    "issue_description": "Sump pump was intermittently short cycling or not fully stopping.",
+    "issue_summary": "Short cycling or running continuously",
+    "additional_information": "Implication(s): Equipment failure | Reduced system life expectancy",
+    "issue_images": "Sump Pump Short Cycling"
+  },
+  {
+    "report_name": "Report No. 1786, v.3",
+    "issue_name": "Hose Bib Not Shut-Off for Winter",
+    "issue_type": "Plumbing",
+    "issue_description": "External water outlets not shut off for winter.",
+    "issue_summary": "Not shut-off for winter",
+    "additional_information": "Implication(s): Potential damage and flooding",
+    "issue_images": "Hose Bib Not Shut-Off for Winter"
+  },
+  {
+    "report_name": "Report No. 1786, v.3",
+    "issue_name": "Bathtub Drain Stop Missing",
+    "issue_type": "Plumbing",
+    "issue_description": "Drain stop missing in bathtub.",
+    "issue_summary": "Drain stop missing",
+    "additional_information": "Implication(s): Reduced operability",
+    "issue_images": "Bathtub Drain Stop Missing"
+  },
+  {
+    "report_name": "Report No. 1786, v.3",
+    "issue_name": "Shower Diverter Ineffective",
+    "issue_type": "Plumbing",
+    "issue_description": "Shower diverter ineffective.",
+    "issue_summary": "Shower diverter ineffective",
+    "additional_information": "Location: Front Ensuite Bathroom",
+    "issue_images": "Shower Diverter Ineffective"
+  },
+  {
+    "report_name": "Report No. 1786, v.3",
+    "issue_name": "Inoperative Ceiling Fan",
+    "issue_type": "Interior",
+    "issue_description": "Inoperative ceiling fan in Front Ensuite Bathroom.",
+    "issue_summary": "Inoperative",
+    "additional_information": "Implication(s): Reduced comfort",
+    "issue_images": "Inoperative Ceiling Fan"
+  },
+  {
+    "report_name": "Report No. 1786, v.3",
+    "issue_name": "Defective Tiles",
+    "issue_type": "Interior",
+    "issue_description": "Defective tiles in hallway.",
+    "issue_summary": "Tiles defective",
+    "additional_information": "Location: Hallway",
+    "issue_images": "Defective Tiles"
+  },
+  {
+    "report_name": "Report No. 1786, v.3",
+    "issue_name": "Inoperable Window Sashes",
+    "issue_type": "Interior",
+    "issue_description": "Inoperable window sashes in Rear Family Room.",
+    "issue_summary": "Inoperable",
+    "additional_information": "Implication(s): Equipment inoperative",
+    "issue_images": "Inoperable Window Sashes"
+  },
+  {
+    "report_name": "Report No. 1786, v.3",
+    "issue_name": "Door Does Not Latch Properly",
+    "issue_type": "Interior",
+    "issue_description": "Door does not latch properly in Front Ensuite Bathroom.",
+    "issue_summary": "Does not latch properly",
+    "additional_information": "Implication(s): System inoperative or difficult to operate",
+    "issue_images": "Door Does Not Latch Properly"
+  },
+  {
+    "report_name": "Report No. 1786, v.3",
+    "issue_name": "Loose Cabinet Doors",
+    "issue_type": "Interior",
+    "issue_description": "Doors or drawers missing or loose in Office.",
+    "issue_summary": "Doors or drawers missing or loose",
+    "additional_information": "Implication(s): Damage or physical injury due to falling materials | Nuisance",
+    "issue_images": "Loose Cabinet Doors"
+  }
+]
