@@ -1,107 +1,92 @@
 [
   {
     "report_name": "SAMPLE REPORT",
-    "issue_name": "No drip edge molding on roof.",
-    "issue_type": "Roofing",
-    "issue_description": "There is no drip edge molding at the edge of the roof, but the shingles overhang by 1 inch. The probability of leakage is low.",
-    "issue_summary": "No drip edge molding on roof, low risk of leakage.",
-    "additional_information": "The probability of leakage is low.",
-    "issue_images": [
-      "Image of asphalt shingles on a roof with a snow cover.",
-      "Image of asphalt shingles on a roof with a snow cover and a visible gutter."
-    ]
+    "issue_name": "Combustion fan is noisy",
+    "issue_type": "Heating",
+    "issue_description": "Combustion fan is noisy, which sometimes indicates end-of-life of the fan. Bearing in the combustion fan may be failing.",
+    "issue_summary": "Noisy combustion fan indicating potential bearing failure in gas furnace.",
+    "additional_information": "Service the furnace. Time: Immediate. Cost: Minor. Located in Furnace Room.",
+    "issue_images": "Furnace"
   },
   {
     "report_name": "SAMPLE REPORT",
-    "issue_name": "Minor repointing needed on exterior brickwork.",
-    "issue_type": "Exterior",
-    "issue_description": "The corner of the brickwork at the garage door shows deterioration of the mortar.",
-    "issue_summary": "Deterioration of mortar at the corner of the garage brickwork.",
-    "additional_information": "Minor repointing is needed.",
-    "issue_images": "Image of an aluminum downspout."
+    "issue_name": "Rust on heat shield",
+    "issue_type": "Heating",
+    "issue_description": "Rust noted on heat shield, sometimes caused by backdrafting.",
+    "issue_summary": "Rust present on furnace heat shield.",
+    "additional_information": "Service required. Time: Immediate. Cost: Minor. Located in Furnace Room.",
+    "issue_images": "Rust on heat shield"
   },
   {
     "report_name": "SAMPLE REPORT",
-    "issue_name": "Spindle not attached at bottom right handrail of deck.",
-    "issue_type": "Exterior",
-    "issue_description": "One vertical spindle is unattached at the bottom of the right railing of the deck. It needs to be screwed on.",
-    "issue_summary": "Unattached spindle on deck railing.",
-    "additional_information": null,
-    "issue_images": "Image of deck railings."
+    "issue_name": "Condensate leaking inside cabinet",
+    "issue_type": "Heating",
+    "issue_description": "Condensate leaking inside cabinet. Condensate drain plugged.",
+    "issue_summary": "Condensate leak in furnace cabinet due to plugged drain.",
+    "additional_information": "Service required. Time: Immediate. Cost: Minor. Located in Furnace Room.",
+    "issue_images": "Condensate leaking out"
   },
   {
     "report_name": "SAMPLE REPORT",
-    "issue_name": "Porch has horizontal cracking.",
-    "issue_type": "Exterior",
-    "issue_description": "Some horizontal cracking was seen on the porch deck at each end, as well as on the neighboring porch.",
-    "issue_summary": "Horizontal cracking on the concrete porch.",
-    "additional_information": null,
-    "issue_images": [
-      "Image of a concrete porch with horizontal cracking.",
-      "Image of another section of the concrete porch."
-    ]
+    "issue_name": "Humidifier leak",
+    "issue_type": "Heating",
+    "issue_description": "Humidifier is seeping, needs cleaning and sealing. Chance of water damage to contents, finishes and/or structure. Damage to equipment.",
+    "issue_summary": "Humidifier leaking, requiring cleaning and sealing.",
+    "additional_information": "Service required. Time: Immediate. Cost: Minor. Located in Furnace Room.",
+    "issue_images": "Duct mounted bypass humidifier"
   },
   {
     "report_name": "SAMPLE REPORT",
-    "issue_name": "Balcony deck is too close to sliding door threshold.",
+    "issue_name": "Spindle not attached at bottom right handrail",
     "issue_type": "Exterior",
-    "issue_description": "The deck of the balcony is almost at the same level as the sliding door threshold, which makes it likely for snow to enter if the door is used in the winter.",
-    "issue_summary": "Balcony deck level is a potential source of snow entry.",
-    "additional_information": null,
+    "issue_description": "Spindle not attached at bottom right handrail on deck railings.",
+    "issue_summary": "Loose spindle on deck railing requiring reattachment.",
+    "additional_information": "One vertical spindle unattached at the bottom of the right railing. Needs screwing on.",
+    "issue_images": "Railings"
+  },
+  {
+    "report_name": "SAMPLE REPORT",
+    "issue_name": "Minor repointing needed",
+    "issue_type": "Exterior",
+    "issue_description": "Corner of brickwork at garage door show deterioration of mortar. Minor repointing needed.",
+    "issue_summary": "Mortar deterioration at garage door brickwork corner.",
+    "additional_information": "Minor masonry repair required.",
+    "issue_images": "Brick"
+  },
+  {
+    "report_name": "SAMPLE REPORT",
+    "issue_name": "Horizontal cracking in concrete porch",
+    "issue_type": "Exterior",
+    "issue_description": "Some horizontal cracking seen at each end of porch deck, as well as neighbouring porch.",
+    "issue_summary": "Horizontal cracks present in concrete porch deck.",
+    "additional_information": "Cracking noted at both ends of porch and neighboring porch.",
+    "issue_images": "Concrete porch cracking"
+  },
+  {
+    "report_name": "SAMPLE REPORT",
+    "issue_name": "Balcony deck level issue",
+    "issue_type": "Exterior",
+    "issue_description": "Deck is almost the same level as sliding door threshold, making snow likely to enter if the door is used in winter.",
+    "issue_summary": "Balcony deck level creates potential for snow entry through sliding door.",
+    "additional_information": "Design issue that may allow winter weather infiltration.",
     "issue_images": null
   },
   {
     "report_name": "SAMPLE REPORT",
-    "issue_name": "Minor dent in garage door.",
+    "issue_name": "Minor dent in garage door",
     "issue_type": "Exterior",
-    "issue_description": "A minor dent was noted in the top of the garage door.",
-    "issue_summary": "Minor dent in garage door.",
-    "additional_information": null,
-    "issue_images": "Image of the garage door."
+    "issue_description": "Minor dent in top of garage door noted. Safety features of automatic door opener tested and are functional.",
+    "issue_summary": "Cosmetic dent in garage door top section.",
+    "additional_information": "Minor cosmetic issue, door opener safety features functional.",
+    "issue_images": "Garage door"
   },
   {
     "report_name": "SAMPLE REPORT",
-    "issue_name": "Deterioration on garage door molding.",
+    "issue_name": "Garage door molding deterioration",
     "issue_type": "Exterior",
-    "issue_description": "Some deterioration was noted on the garage door molding. It is recommended to fill/paint it in the spring, or cover it with aluminum trim.",
-    "issue_summary": "Deterioration on garage door molding.",
-    "additional_information": null,
-    "issue_images": "Image of the garage door molding."
-  },
-  {
-    "report_name": "SAMPLE REPORT",
-    "issue_name": "Combustion fan is noisy.",
-    "issue_type": "Heating",
-    "issue_description": "The combustion fan for the gas furnace is noisy, which may indicate that the bearing is failing. The report recommends servicing the furnace.",
-    "issue_summary": "Combustion fan is noisy, may be end-of-life.",
-    "additional_information": "Location: Furnace Room. Task: Service the furnace. Time: Immediate. Cost: Minor.",
-    "issue_images": null
-  },
-  {
-    "report_name": "SAMPLE REPORT",
-    "issue_name": "Rust on heat shield of gas furnace.",
-    "issue_type": "Heating",
-    "issue_description": "There is rust on the heat shield of the gas furnace, which is sometimes caused by backdrafting.",
-    "issue_summary": "Rust on heat shield.",
-    "additional_information": "Location: Furnace Room. Task: Service. Time: Immediate. Cost: Minor.",
-    "issue_images": "Image showing rust on the heat shield."
-  },
-  {
-    "report_name": "SAMPLE REPORT",
-    "issue_name": "Condensate leaking inside furnace cabinet.",
-    "issue_type": "Heating",
-    "issue_description": "There is condensate leaking inside the furnace cabinet, which may be caused by a plugged condensate drain.",
-    "issue_summary": "Condensate leaking inside furnace cabinet.",
-    "additional_information": "Location: Furnace Room. Task: Service. Time: Immediate. Cost: Minor.",
-    "issue_images": "Image showing condensate leaking out."
-  },
-  {
-    "report_name": "SAMPLE REPORT",
-    "issue_name": "Leak in humidifier.",
-    "issue_type": "Heating",
-    "issue_description": "The duct-mounted bypass humidifier is seeping and requires service/cleaning.",
-    "issue_summary": "Humidifier leak.",
-    "additional_information": "Location: Furnace Room. Task: Service. Time: Immediate. Cost: Minor. Implication: Chance of water damage to contents, finishes and/or structure or damage to equipment.",
-    "issue_images": "Image of the duct mounted bypass humidifier."
+    "issue_description": "Some deterioration noted. Recommend filling/painting in the spring, or cover with aluminum trim.",
+    "issue_summary": "Deterioration of garage door molding requiring maintenance.",
+    "additional_information": "Recommend filling/painting in spring or covering with aluminum trim.",
+    "issue_images": "Garage door molding"
   }
 ]

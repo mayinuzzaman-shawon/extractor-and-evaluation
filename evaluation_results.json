@@ -1,0 +1,20 @@
+{
+  "14.json": {
+    "extraction_completeness": 80.0,
+    "content_accuracy": 70.0,
+    "image_association_accuracy": 60.0,
+    "comments": "The extraction captured 8 out of 10 ground truth issues, resulting in 80% completeness. Content accuracy is lower due to missing details and discrepancies in descriptions and summaries. Image associations are also inaccurate, with some images not matching the issues correctly."
+  },
+  "2.json": {
+    "extraction_completeness": 87.5,
+    "content_accuracy": 75.0,
+    "image_association_accuracy": 62.5,
+    "comments": "Out of 8 ground truth issues, 7 were extracted, resulting in 87.5% completeness. Content accuracy is affected by discrepancies in issue summaries and names. Image associations are inaccurate for several issues."
+  },
+  "7.json": {
+    "extraction_completeness": 80.0,
+    "content_accuracy": 85.0,
+    "image_association_accuracy": 50.0,
+    "comments": "8 out of 10 ground truth issues were extracted. The content of the extracted issues generally matches the ground truth, but some descriptions and summaries lack detail. Image associations are poor, as many extracted issues do not have corresponding images or have incorrect image references."
+  }
+}
